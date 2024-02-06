@@ -1,0 +1,52 @@
+---
+{{ if eq hugo.Environment "development" }}local_backend: true
+{{ end -}}
+backend:
+  name: git-gateway
+  branch: main
+site_url: "{{ .Site.BaseURL }}"
+media_folder: {{ .Site.Params.dir }}/assets/assets
+public_folder: /assets/
+logo_url: {{ (resources.Get "favicon.svg" | resources.Fingerprint "md5").RelPermalink }}
+collections:
+  - label: Site settings
+    name: site_settings
+    delete: false
+    editor: { preview: false }
+    files:
+      - label: Design
+        name: design
+        preview_path: "/"
+        file: main/data/design.yaml
+        fields:
+          - label: Colours
+            name: colors
+            widget: object
+            fields:
+              - label: Background
+                name: background
+                widget: string
+                default: "#ffffff"
+              - label: Body text
+                name: body
+                widget: string
+                default: "#000000"
+              - label: Accent
+                name: accent
+                widget: string
+                default: "#cc3232"
+      - label: Redirects
+        name: redirects
+        file: main/data/redirects.yaml
+        fields:
+          - label: Redirects
+            name: redirects
+            widget: list
+            fields:
+              - label: From
+                name: from
+                widget: string
+                default: "#ffffff"
+              - label: To
+                name: to
+                widget: string

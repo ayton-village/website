@@ -1,0 +1,9 @@
+.site-title {
+  @include heading;
+  width: 8.5em;
+}
+
+header {
+  @include wrapper;
+  padding: 1em;
+}

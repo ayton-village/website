@@ -1,0 +1,38 @@
+baseURL = 'https://council.ayton-village.org'
+languageCode = 'en-gb'
+disableHugoGeneratorInject = true
+title = 'Ayton Community Council'
+disableKinds = ['taxonomy']
+summaryLength = 25
+[params]
+dir = 'council'
+[languages]
+[languages.en]
+languageCode = 'en-GB'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 2
+[markup.goldmark.renderer]
+unsafe = true
+[module]
+[[module.mounts]]
+source = '../common/layouts'
+target = 'layouts'
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+[[module.mounts]]
+source = '../common/assets'
+target = 'assets'
+[[module.mounts]]
+source = 'data'
+target = 'data'
+[[module.mounts]]
+source = '../common/data'
+target = 'data'
+[[module.mounts]]
+source = 'static'
+target = 'static'
+[[module.mounts]]
+source = '../common/static'
+target = 'static'

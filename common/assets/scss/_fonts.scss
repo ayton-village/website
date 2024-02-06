@@ -1,0 +1,48 @@
+/*! Cooper Hewitt license: #{$cooperHewittLicenseUrl} */
+@font-face {
+  font-family: 'Cooper Hewitt';
+  font-style: normal;
+  font-weight: bold;
+  src: local(''), url($cooperHewittBoldUrl);
+}
+
+/*! Charter license: #{$charterLicenseUrl} */
+@font-face {
+  font-family: 'Charter';
+  font-style: normal;
+  font-weight: normal;
+  src: local(''), url($charterRegularUrl);
+}
+
+@font-face {
+  font-family: 'Charter';
+  font-style: normal;
+  font-weight: bold;
+  src: local(''), url($charterBoldUrl);
+}
+
+@font-face {
+  font-family: 'Charter';
+  font-style: italic;
+  font-weight: normal;
+  src: local(''), url($charterItalicUrl);
+}
+
+@font-face {
+  font-family: 'Charter';
+  font-style: italic;
+  font-weight: bold;
+  src: local(''), url($charterBoldItalicUrl);
+}
+
+@mixin body-text {
+  font-family: 'Charter', serif;
+  line-height: $lineHeight;
+}
+
+@mixin heading {
+  font-family: 'Cooper Hewitt', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 2em 0 1em;
+}

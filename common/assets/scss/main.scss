@@ -1,0 +1,28 @@
+$accentColor: {{ .Site.Data.design.colors.accent }};
+$backgroundColor: {{ .Site.Data.design.colors.background }};
+$bodyColor: {{ .Site.Data.design.colors.body }};
+
+$cooperHewittLicenseUrl: '{{ (resources.GetMatch "fonts/cooper-hewitt-license.txt" | resources.Fingerprint "md5").Permalink }}';
+$cooperHewittBoldUrl: '{{ (resources.GetMatch "fonts/chb.woff" | resources.Fingerprint "md5").RelPermalink }}';
+
+$charterLicenseUrl: '{{ (resources.GetMatch "fonts/charter-license.txt" | resources.Fingerprint "md5").Permalink }}';
+$charterRegularUrl: '{{ (resources.GetMatch "fonts/cr.woff2" | resources.Fingerprint "md5").RelPermalink }}';
+$charterBoldUrl: '{{ (resources.GetMatch "fonts/cb.woff2" | resources.Fingerprint "md5").RelPermalink }}';
+$charterItalicUrl: '{{ (resources.GetMatch "fonts/ci.woff2" | resources.Fingerprint "md5").RelPermalink }}';
+$charterBoldItalicUrl: '{{ (resources.GetMatch "fonts/cbi.woff2" | resources.Fingerprint "md5").RelPermalink }}';
+
+$lineHeight: 1.2;
+$fontSize: 5vw;
+
+$firstBreakpointFontSize: 2vw;
+$firstBreakpoint: 650px;
+$secondBreakpoint: 1111px;
+$preFirstBreakpointStr: "(max-width: #{$firstBreakpoint - 1})";
+$firstBreakpointStr: "(min-width: #{$firstBreakpoint})";
+$secondBreakpointStr: "(min-width: #{$secondBreakpoint})";
+
+@import "fonts";
+@import "normalize";
+@import "general";
+@import "header";
+@import "article";
