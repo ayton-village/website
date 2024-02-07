@@ -2,3 +2,30 @@ main {
   @include wrapper;
   padding: 1em;
 }
+
+aside {
+  @include boxed;
+  margin: 1em 0;
+
+  &.left {
+    @media #{$firstBreakpointStr} {
+      margin-right: 1em;
+      float: left;
+    }
+  }
+
+  &.right {
+    @media #{$firstBreakpointStr} {
+      margin-left: 1em;
+      float: right;
+    }
+  }
+
+  &.center {
+    @media #{$firstBreakpointStr} {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 75%;
+    }
+  }
+}

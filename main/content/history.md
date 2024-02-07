@@ -4,7 +4,10 @@ redirects:
   - /our-history/
 ---
 
-> For more information on Ayton's history, please visit [Ayton Historical Society's website](https://www.aytonhistory.com/)
+
+{{<aside side="center">}}
+For more information on Ayton's history, please visit [Ayton Historical Society's website](https://www.aytonhistory.com/).
+{{</aside>}}
 
 ### 1497
 

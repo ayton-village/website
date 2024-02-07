@@ -3,9 +3,11 @@ body {
   color: $bodyColor;
   @include body-text;
   font-size: $fontSize;
+
   @media #{$firstBreakpointStr} {
     font-size: $firstBreakpointFontSize;
   }
+
   @media #{$secondBreakpointStr} {
     font-size: $secondBreakpoint * ($firstBreakpointFontSize / 100vw);
   }
@@ -24,21 +26,26 @@ h6 {
   @include heading;
 }
 
-blockquote {
-  margin: 0 auto 2em;
+@mixin boxed {
   background-color: rgba($bodyColor, 0.05);
   padding: 1em 2em;
+  max-width: 100%;
+
+  @media #{$firstBreakpointStr} {
+    max-width: 50%;
+  }
+
+  box-sizing: border-box;
   width: fit-content;
+}
+
+blockquote {
+  @include boxed;
+  margin: 0 auto 2em;
 }
 
 @mixin wrapper {
   max-width: $secondBreakpoint;
   margin: 0 auto;
   box-sizing: border-box;
-}
-
-header,
-main {
-  @include wrapper;
-  padding: 1em;
 }
