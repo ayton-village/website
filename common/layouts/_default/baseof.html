@@ -46,7 +46,9 @@
     <div class="site-title">{{ .Site.Title }}</div>
   </header>
   <main>
-    {{ block "body" . }}
+    {{ block "main" . }}
+    <h1>{{.Page.Title}}</h1>
+    {{.Content}}
     {{ end }}
   </main>
 </body>
