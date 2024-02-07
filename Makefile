@@ -16,5 +16,5 @@ dev:
 	npx run-pty % \
 		npx netlify-cms-proxy-server % \
 		hugo server --buildDrafts --port=1313 --source=main % \
-		hugo server --port=1314 --source=council % \
-		hugo server --port=1315 --source=hall
+		hugo server --buildDrafts --port=1314 --source=council % \
+		hugo server --buildDrafts --port=1315 --source=hall
