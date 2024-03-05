@@ -2,12 +2,20 @@
 title: History of Ayton
 redirects:
   - /our-history/
+menu:
+  main:
+    name: History
+    weight: 30
 ---
 
 
 {{<aside side="center">}}
 For more information on Ayton's history, please visit [Ayton Historical Society's website](https://www.aytonhistory.com/).
 {{</aside>}}
+
+### 1333
+
+19th July, the rout which followed Scotland’s defeat at the Battle of Halidon Hill continued for 5 corpse strewn miles as the English knights killed at will: the first rear-guard defence was organised around Ayton using the River Eye as a natural defensive barrier.
 
 ### 1497
 

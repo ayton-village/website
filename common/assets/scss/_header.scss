@@ -1,9 +1,131 @@
-.site-title {
-  @include heading;
-  width: 8.5em;
-}
-
 header {
+  @include heading($margins: false);
+  $menuSize: 2em;
+  $menuLine: 0.3em;
+
   @include wrapper;
-  padding: 1em;
+  padding: 2em 1em;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .site-title {
+    padding: 1em 1em 1em 0;
+    border-right: 0.3em solid $bodyColor;
+    text-align: right;
+
+    a {
+      text-decoration: none;
+      transition: $transition color;
+
+      &:not(:hover) {
+        color: inherit;
+      }
+    }
+  }
+
+  nav {
+    ul {
+      display: flex;
+      list-style-type: none;
+      margin: 0;
+
+      @media #{$firstBreakpointStr} {
+        padding: 1em 0 1em 1em;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+
+        li {
+          font-size: 0.8em;
+        }
+      }
+
+      @media #{$beforeFirstBreakpointStr} {
+        flex-direction: column;
+        overflow-y: auto;
+        position: fixed;
+        box-sizing: border-box;
+        padding: (2em + 1em + $menuSize*2) 1em 2em 1em;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity $transition;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: transparentize($backgroundColor, 0.8);
+        -webkit-backdrop-filter: saturate(1.8) blur(1em);
+        webkit-backdrop-filter: saturate(1.8) blur(1em);
+        z-index: 900;
+      }
+
+      li {
+        padding: 0.5em;
+
+        &.active a {
+          text-decoration: none;
+          color: $bodyColor;
+        }
+      }
+    }
+
+  }
+
+  #menu-hamburger-checkbox {
+    display: none;
+
+    @media #{$beforeFirstBreakpointStr} {
+      &+label {
+        width: $menuSize*2;
+        user-select: none;
+        height: $menuSize*2;
+        border-radius: $menuSize;
+        background-color: $accentColor;
+        cursor: pointer;
+        position: fixed;
+        top: 2em;
+        right: 1em;
+        z-index: 999;
+
+        &:before,
+        &:after {
+          right: $menuSize/2;
+          content: '';
+          position: absolute;
+          height: $menuLine;
+          width: $menuSize;
+          background-color: $backgroundColor;
+          border-radius: $menuLine;
+          margin-top: -$menuLine/2;
+          transition: top $transition, transform $transition;
+        }
+
+        &:before {
+          top: $menuSize/3+$menuSize/2;
+        }
+
+        &:after {
+          top: 2*$menuSize/3+$menuSize/2;
+        }
+      }
+
+      &:checked+label {
+        &:before {
+          top: $menuSize;
+          transform: rotate(45deg);
+        }
+
+        &:after {
+          top: $menuSize;
+          transform: rotate(-45deg);
+        }
+      }
+
+      &:checked~ul {
+        opacity: 1;
+        pointer-events: auto;
+      }
+    }
+  }
 }

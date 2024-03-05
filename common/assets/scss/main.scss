@@ -17,9 +17,11 @@ $fontSize: 5vw;
 $firstBreakpointFontSize: 2vw;
 $firstBreakpoint: 650px;
 $secondBreakpoint: 1111px;
-$preFirstBreakpointStr: "(max-width: #{$firstBreakpoint - 1})";
+$beforeFirstBreakpointStr: "(max-width: #{$firstBreakpoint - 1})";
 $firstBreakpointStr: "(min-width: #{$firstBreakpoint})";
 $secondBreakpointStr: "(min-width: #{$secondBreakpoint})";
+
+$transition: 0.2s ease-in-out;
 
 @import "fonts";
 @import "normalize";

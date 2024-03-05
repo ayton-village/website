@@ -1,5 +1,9 @@
 ---
 title: Ayton Community Council
+menu:
+  main:
+    name: Home
+    weight: -1
 ---
 
 Under the Local Government (Scotland) Act 1973, all of Scotland’s local authorities are legally obliged to set up Community Councils.

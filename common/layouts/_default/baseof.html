@@ -31,6 +31,7 @@
   {{ range .AlternativeOutputFormats }}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}">{{ end }}
   {{ block "head_extra" . -}}
+  {{- with .Params.head_extra }}.{{ end -}}
   {{- end }}
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -43,11 +44,44 @@
 
 <body class="{{ replace .Page.Type " -" " " }}">
   <header>
-    <div class="site-title">{{ .Site.Title }}</div>
+    <div class="site-title"><a href="{{ .Site.BaseURL }}">
+        {{- $firstWord := true -}}
+        {{- range strings.Split .Site.Title " " -}}
+        {{- if not $firstWord -}}<br>{{- end -}}
+        {{- $firstWord = false }}
+        {{- . -}}
+        {{- end -}}
+      </a></div>
+    <nav>
+      <input type="checkbox" id="menu-hamburger-checkbox">
+      <label for="menu-hamburger-checkbox"></label>
+      <ul>
+        {{ range .Site.Menus.main }}
+        {{ if ne .Weight 999 }}
+        <li{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} class="active" {{ end }}>
+          {{ if .URL }}<a href="{{ .URL }}" title="{{ .Title }}">{{ else }}<span>{{ end -}}
+              {{ .Name }}
+              {{- if .URL }}</a>{{ else }}</span>{{ end }}
+          {{ if .Children }}
+          <ul>
+            {{ range .Children }}
+            <li{{if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} class="active" {{ end }}>
+              <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+              </li>
+              {{ end }}
+          </ul>
+          {{ end }}
+          </li>
+          {{ end }}
+          {{ end }}
+      </ul>
+    </nav>
   </header>
   <main>
-    {{ block "main" . }}
+    {{ block "page_title" . }}
     <h1>{{.Page.Title}}</h1>
+    {{ end }}
+    {{ block "main" . }}
     {{.Content}}
     {{ end }}
   </main>
