@@ -43,7 +43,7 @@ h6 {
 
 @mixin boxed {
   background-color: rgba($bodyColor, 0.05);
-  padding: 1em 2em;
+  padding: 2em;
   max-width: 100%;
 
   @media #{$firstBreakpointStr} {

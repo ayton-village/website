@@ -2,6 +2,7 @@
 title: History of Ayton
 redirects:
   - /our-history/
+toc: true
 menu:
   main:
     name: History

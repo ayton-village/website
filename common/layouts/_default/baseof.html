@@ -78,10 +78,8 @@
     </nav>
   </header>
   <main>
-    {{ block "page_title" . }}
-    <h1>{{.Page.Title}}</h1>
-    {{ end }}
     {{ block "main" . }}
+    <h1>{{.Page.Title}}</h1>
     {{.Content}}
     {{ end }}
   </main>

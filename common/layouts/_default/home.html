@@ -5,4 +5,4 @@
 <script>if (window.location.hash.indexOf('token') > -1) window.location.href = window.location.origin + '/admin/' + window.location.hash;</script>
 {{ end }}
 
-{{ define "page_title" }}{{ print "" }}{{ end }}
+{{ define "main" }}{{ .Content }}{{ end }}

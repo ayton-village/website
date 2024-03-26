@@ -24,6 +24,11 @@ collections:
       - label: Title
         name: title
         widget: string
+      - label: Table of Contents
+        name: toc
+        widget: boolean
+        required: false
+        default: false
       - label: Content
         name: body
         widget: markdown
