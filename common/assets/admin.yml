@@ -41,6 +41,30 @@ collections:
           label: From
           hint: "Should start with a ‘/’"
         summary: '{{ print "{{from}}" }}'
+      - label: Menu placement
+        name: menu
+        widget: object
+        required: false
+        fields:
+          - label: Main menu
+            name: main
+            widget: object
+            required: false
+            fields:
+              - label: Label
+                name: name
+                widget: string
+                hint: >
+                  Alternative title to use in nav.
+                  Uses title if left blank.
+                required: false
+              - label: Weight
+                name: weight
+                widget: "number"
+                required: true
+                default: 50
+                hint: >
+                  Enter 999 to remove from menu
   - label: Site settings
     name: site_settings
     delete: false
