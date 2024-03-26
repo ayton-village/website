@@ -25,6 +25,10 @@ In September 1497, at Ayton Old Church, James IV of Scotland and Henry VII of En
 
 James Hume, Earl of Hume, a supporter of the Jacobite cause, aided the Earl of Mar to reinstate the Stewarts upon the throne with his support of the failed second Jacobite rebellion. For this support, James Hume forfeited the Ayton Castle Estates and they were passed to the Crown.
 
+### 1797
+
+[Robert Mennon, the Ayton Bard](/robert-mennon) was born.
+
 ### 1914-18
 
 42 men from Ayton Parish lost their lives in defence of their country during World War One.

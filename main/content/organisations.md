@@ -8,6 +8,8 @@ menu:
     weight: 20
 ---
 
+## [Ayton Church](/church/)
+
 ## Ayton Neighbourhood Watch
 
 Contact Kenny Combe on [01890 781443](tel:00441890781443)

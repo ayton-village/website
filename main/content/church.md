@@ -5,7 +5,7 @@ redirects:
   - /church-meeting-times/
 menu:
   main:
-    weight: 40
+    weight: 999
 ---
 
 ## Church of Scotland – Ayton and District Churches
