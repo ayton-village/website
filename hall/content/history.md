@@ -1,5 +1,6 @@
 ---
 title: History
+is_page: true
 menu:
   main:
     weight: 60

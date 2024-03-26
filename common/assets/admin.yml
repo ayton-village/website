@@ -18,12 +18,21 @@ collections:
     folder: {{ .Site.Params.dir }}/content
     create: true
     format: frontmatter
+    nested:
+      depth: 2
+    filter:
+      field: is_page
+      value: true
     preview_path: '{{ print "{{ slug }}" }}/'
     editor: { preview: false }
     fields:
       - label: Title
         name: title
         widget: string
+      - label: Is Page
+        name: is_path
+        default: true
+        widget: hidden
       - label: Table of Contents
         name: toc
         widget: boolean
@@ -32,6 +41,7 @@ collections:
       - label: Content
         name: body
         widget: markdown
+        required: false
       - label: Redirects
         label_singular: Redirect
         name: redirects
@@ -65,6 +75,76 @@ collections:
                 default: 50
                 hint: >
                   Enter 999 to remove from menu
+  {{- if not (eq .Site.Params.dir "main") }}
+  - name: minutes
+    label: Minutes
+    label_singular: Meeting
+    folder: {{ .Site.Params.dir }}/content/minutes
+    create: true
+    format: frontmatter
+    filter:
+      field: type
+      value: minutes
+    preview_path: 'minutes/{{ print "{{ slug }}" }}/'
+    editor: { preview: false }
+    media_folder: /{{ .Site.Params.dir }}/assets/minutes
+    public_folder: /minutes
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        default: Minutes for meeting held
+      - label: Date
+        name: date
+        widget: datetime
+      - label: File
+        name: file
+        widget: file
+        required: false
+      - label: Type
+        name: type
+        default: minutes
+        widget: hidden
+      - label: Content
+        name: body
+        widget: markdown
+        required: false
+        default: 'PDF of minutes linked below.'
+  - name: accounts
+    label: Accounts
+    label_singular: Filing
+    folder: {{ .Site.Params.dir }}/content/accounts
+    create: true
+    format: frontmatter
+    filter:
+      field: type
+      value: accounts
+    preview_path: 'accounts/{{ print "{{ slug }}" }}/'
+    editor: { preview: false }
+    media_folder: /{{ .Site.Params.dir }}/assets/accounts
+    public_folder: /accounts
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        default: Accounts for 20XX-20XX
+      - label: Date
+        name: date
+        widget: datetime
+      - label: File
+        name: file
+        widget: file
+        required: false
+      - label: Type
+        name: type
+        default: accounts
+        widget: hidden
+      - label: Content
+        name: body
+        required: false
+        widget: markdown
+        default: 'PDF of accounts linked below.'
+  {{- end }}
   - label: Site settings
     name: site_settings
     delete: false

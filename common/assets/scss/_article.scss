@@ -3,9 +3,21 @@ main {
   padding: 1em;
 }
 
+img {
+  max-width: 100%;
+}
+
 aside {
   @include boxed;
   margin: 0 0 1em 0;
+
+  >p:first-child {
+    margin-top: 0;
+  }
+
+  >p:last-child {
+    margin-bottom: 0;
+  }
 
   &.left {
     @media #{$firstBreakpointStr} {

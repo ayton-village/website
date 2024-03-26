@@ -4,7 +4,13 @@ menu:
   main:
     name: Home
     weight: -1
+is_page: true
 ---
+
+{{<aside side="right">}}
+![Map of Ayton CC boundary](/assets/boundary.webp)
+Ayton CC boundary
+{{</aside>}}
 
 Under the Local Government (Scotland) Act 1973, all of Scotland’s local authorities are legally obliged to set up Community Councils.
 

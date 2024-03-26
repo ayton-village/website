@@ -1,5 +1,6 @@
 ---
 title: Calendar
+is_page: true
 redirects:
   - /whats-on/
   - /my-calendar/

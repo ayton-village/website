@@ -1,5 +1,6 @@
 ---
 title: Robert Mennon, the Ayton Bard
+is_page: true
 menu:
   main:
     weight: 999

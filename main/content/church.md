@@ -1,5 +1,6 @@
 ---
 title: Ayton Church
+is_page: true
 redirects:
   - /ayton-church/
   - /church-meeting-times/

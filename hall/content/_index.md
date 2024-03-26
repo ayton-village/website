@@ -1,5 +1,6 @@
 ---
 title: Ayton Community Hall
+is_page: true
 menu:
   main:
     name: Home

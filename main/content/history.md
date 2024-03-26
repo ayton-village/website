@@ -1,5 +1,6 @@
 ---
 title: History of Ayton
+is_page: true
 redirects:
   - /our-history/
 toc: true

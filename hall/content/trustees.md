@@ -1,5 +1,6 @@
 ---
 title: ACHA Board of Trustees
+is_page: true
 menu:
   main:
     weight: 5

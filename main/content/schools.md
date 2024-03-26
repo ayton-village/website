@@ -1,5 +1,6 @@
 ---
 title: Schools
+is_page: true
 redirects:
   - /local-schools/
 menu:

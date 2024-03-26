@@ -1,5 +1,6 @@
 ---
 title: Home
+is_page: true
 redirects:
   - /about-us/
   - /welcome/
