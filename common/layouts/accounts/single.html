@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ .Content }}
+{{ $title := .Title }}
+{{ with .Params.file }}
+{{ $link := resources.GetMatch . | resources.Fingerprint "md5" }}
+<a target="_blank" href="{{ $link.RelPermalink }}" class="linked-file">{{ $title }}</a>
+{{ end }}
+{{ end }}

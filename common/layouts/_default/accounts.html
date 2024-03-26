@@ -1,9 +1,0 @@
-{{ define "main" }}
-{{ .Content }}
-<ul>
-  {{ range .Pages }}
-  {{ $link := resources.GetMatch .Params.file | resources.Fingerprint "md5" }}
-  <li><a target="_blank" href="{{ $link.RelPermalink }}">{{ .Title }}</a></li>
-  {{ end }}
-</ul>
-{{ end }}
