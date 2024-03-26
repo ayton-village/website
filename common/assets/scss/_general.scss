@@ -65,3 +65,8 @@ blockquote {
   box-sizing: border-box;
   position: relative;
 }
+
+hr {
+  border: 0.1em solid $bodyColor;
+  margin: 2em 5em;
+}
