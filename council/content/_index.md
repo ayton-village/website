@@ -12,6 +12,10 @@ is_page: true
 Ayton CC boundary
 {{</aside>}}
 
+Welcome to the website for Ayton Community Council. Ayton is a beautiful village in eastern Berwickshire. If you would like to find out more about the village, please visit [ayton-village.org](https://ayton-village.org).
+
+## What is a Community Council?
+
 Under the Local Government (Scotland) Act 1973, all of Scotland’s local authorities are legally obliged to set up Community Councils.
 
 These are legally recognised groups of local people with an interest in their community. The main role of Community Councils is to represent their local area, to consult with local residents, and pass their views on to public sector organisations such as Scottish Borders Council, NHS Borders, Lothian and Borders Police and the Scottish Government.
