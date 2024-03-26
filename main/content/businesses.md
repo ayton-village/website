@@ -3,7 +3,7 @@ title: Businesses in Ayton
 is_page: true
 menu:
   main:
-    name: Local businesses
+    name: Businesses
     weight: 30
 ---
 
