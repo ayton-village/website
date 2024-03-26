@@ -1,6 +1,7 @@
 ---
 title: Clubs & Organisations
 is_page: true
+toc: true
 redirects:
   - /clubs-and-organisations/
 menu:
