@@ -1,11 +1,11 @@
 ---
 backend:
-{{ if eq hugo.Environment "development" }}
+{{- if eq hugo.Environment "development" }}
   name: proxy
   proxy_url: http://localhost:8081/api/v1
-{{ else }}
+{{- else }}
   name: git-gateway
-{{ end }}
+{{- end }}
   branch: main
 site_url: "{{ .Site.BaseURL }}"
 media_folder: {{ .Site.Params.dir }}/assets/assets
