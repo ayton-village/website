@@ -116,6 +116,12 @@ collections:
       - label: Date
         name: date
         widget: datetime
+      - label: 'Special meeting'
+        name: special_meeting
+        required: false
+        default: ''
+        widget: string
+        hint: e.g. ‘AGM’ or ‘EGM’
       - label: File
         name: file
         widget: file

@@ -1,5 +1,11 @@
 {{ define "main" }}
+<a href="/minutes">&larr; All minutes</a>
 <h1>{{ .Title }}</h1>
+{{ if ge .WordCount 100 }}
+<aside class="right">
+  {{ .TableOfContents }}
+</aside>
+{{ end }}
 {{ .Content }}
 {{ $title := .Title }}
 {{ with .Params.file }}

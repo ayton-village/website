@@ -1,11 +1,19 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+<h2>Most recent meeting</h2>
+{{ range (first 1 .Pages) }}
+<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{ end }}
+<h2>All past minutes</h2>
 {{- range (.Pages.GroupByDate "2006") -}}
 <h3>{{ .Key }}</h3>
 <ul>
   {{ range .Pages.ByPublishDate }}
-  <li><a href="{{ .RelPermalink }}">{{ .Date.Format "2 January 2006" }}</a></li>
+  <li><a href="{{ .RelPermalink }}">{{ .Date.Format "2 January 2006" }}</a>
+    {{- with .Params.special_meeting }} &mdash; {{ . }}
+    {{- end -}}
+  </li>
   {{ end }}
 </ul>
 {{- end }}

@@ -31,15 +31,24 @@ h1 {
   font-size: 1.5em;
 }
 
-h2,
+h2 {
+  font-size: 1.2em;
+}
+
 h3,
 h4 {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 h5,
 h6 {
   font-size: 1em;
+  text-transform: none;
+}
+
+h4,
+h6 {
+  font-weight: normal;
 }
 
 .site-title {
@@ -57,14 +66,14 @@ h6 {
   }
 }
 
-@mixin boxed {
+@mixin boxed($maxWidth: 50%) {
   background-color: $boxColor;
   padding: 1em;
   border-radius: 1em;
   max-width: 100%;
 
   @media #{$firstBreakpointStr} {
-    max-width: 50%;
+    max-width: $maxWidth;
   }
 
   box-sizing: border-box;
@@ -72,7 +81,7 @@ h6 {
 }
 
 blockquote {
-  @include boxed;
+  @include boxed(75%);
   margin: 0 auto 2em;
 }
 
