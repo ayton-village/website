@@ -7,12 +7,16 @@ menu:
 is_page: true
 ---
 
+Welcome to the website for Ayton Community Council. Ayton is a beautiful village in eastern Berwickshire. If you would like to find out more about the village, please visit [ayton-village.org](https://ayton-village.org).
+
 {{<aside side="right">}}
 ![Map of Ayton CC boundary](/assets/boundary.webp)
 Ayton CC boundary
 {{</aside>}}
 
-Welcome to the website for Ayton Community Council. Ayton is a beautiful village in eastern Berwickshire. If you would like to find out more about the village, please visit [ayton-village.org](https://ayton-village.org).
+## Next Meeting
+
+**The next meeting will be held on Tuesday 7 May 20024 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
 
 ## What is a Community Council?
 
