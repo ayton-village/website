@@ -15,6 +15,6 @@ clean_main clean_council clean_hall:
 dev:
 	npx run-pty % \
 		npx --yes decap-server % \
-		hugo server --buildDrafts --port=1313 --source=main % \
-		hugo server --buildDrafts --port=1314 --source=council % \
-		hugo server --buildDrafts --port=1315 --source=hall
+		hugo server --bind 0.0.0.0 --buildDrafts --port=1313 --source=main % \
+		hugo server --bind 0.0.0.0 --buildDrafts --port=1314 --source=council % \
+		hugo server --bind 0.0.0.0 --buildDrafts --port=1315 --source=hall

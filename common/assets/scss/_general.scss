@@ -1,5 +1,5 @@
 body {
-  background-color: $backgroundColor;
+  background-color: $boxColor;
   color: $bodyColor;
   @include body-text;
   font-size: $fontSize;
@@ -12,6 +12,7 @@ body {
     font-size: $secondBreakpoint * ($firstBreakpointFontSize / 100vw);
   }
 }
+
 
 a {
   color: $accentColor;
@@ -41,8 +42,23 @@ h6 {
   font-size: 1em;
 }
 
+.site-title {
+  padding: 1em 1em 1em 0;
+  border-right: 0.3em solid $bodyColor;
+  text-align: right;
+
+  a {
+    text-decoration: none;
+    transition: $transition color;
+
+    &:not(:hover) {
+      color: inherit;
+    }
+  }
+}
+
 @mixin boxed {
-  background-color: rgba($bodyColor, 0.05);
+  background-color: $boxColor;
   padding: 1em;
   border-radius: 1em;
   max-width: 100%;
@@ -70,4 +86,10 @@ blockquote {
 hr {
   border: 0.1em solid $bodyColor;
   margin: 2em 5em;
+}
+
+.header-footer-wrapper {
+  background-color: $backgroundColor;
+  padding: 0;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) 0 env(safe-area-inset-left);
 }

@@ -1,0 +1,15 @@
+---
+sites:
+  - name: Ayton, Berwickshire
+    link: https://ayton-village.org
+  - name: Ayton Community Council
+    link: https://council.ayton-village.org
+icons:
+  - icon: facebook
+    title: Facebook
+    link: https://www.facebook.com/AytonCommunityHall
+  - icon: envelope
+    title: Email
+    link: mailto:hall@ayton-village.org
+---
+

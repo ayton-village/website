@@ -75,6 +75,25 @@ collections:
                 default: 50
                 hint: >
                   Enter 999 to remove from menu
+          - label: Footer menu
+            name: main
+            widget: object
+            required: false
+            fields:
+              - label: Label
+                name: name
+                widget: string
+                hint: >
+                  Alternative title to use in nav.
+                  Uses title if left blank.
+                required: false
+              - label: Weight
+                name: weight
+                widget: "number"
+                required: true
+                default: 50
+                hint: >
+                  Enter 999 to remove from menu
   {{- if not (eq .Site.Params.dir "main") }}
   - name: minutes
     label: Minutes

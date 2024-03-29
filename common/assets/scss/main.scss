@@ -1,6 +1,7 @@
 $accentColor: {{ .Site.Data.design.colors.accent }};
 $backgroundColor: {{ .Site.Data.design.colors.background }};
 $bodyColor: {{ .Site.Data.design.colors.body }};
+$boxColor: {{ .Site.Data.design.colors.box }};
 
 $cooperHewittLicenseUrl: '{{ (resources.GetMatch "fonts/cooper-hewitt-license.txt" | resources.Fingerprint "md5").Permalink }}';
 $cooperHewittBoldUrl: '{{ (resources.GetMatch "fonts/chb.woff" | resources.Fingerprint "md5").RelPermalink }}';
@@ -28,3 +29,4 @@ $transition: 0.2s ease-in-out;
 @import "general";
 @import "header";
 @import "article";
+@import "footer";

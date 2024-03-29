@@ -10,21 +10,6 @@ header {
   align-items: center;
   justify-content: space-between;
 
-  .site-title {
-    padding: 1em 1em 1em 0;
-    border-right: 0.3em solid $bodyColor;
-    text-align: right;
-
-    a {
-      text-decoration: none;
-      transition: $transition color;
-
-      &:not(:hover) {
-        color: inherit;
-      }
-    }
-  }
-
   nav {
     ul {
       display: flex;
@@ -70,6 +55,46 @@ header {
       }
     }
 
+    .icons {
+      flex-basis: 100%;
+      display: flex;
+      padding-top: 0;
+      line-height: 0.5;
+
+      @media #{$beforeFirstBreakpointStr} {
+        justify-content: flex-start;
+        margin-top: 1em;
+      }
+
+      @media #{$firstBreakpointStr} {
+        justify-content: flex-end;
+      }
+
+      a {
+        padding: 0.2em;
+
+        &:first-child {
+          padding-left: 0;
+        }
+
+        &:last-child {
+          padding-right: 0;
+        }
+      }
+
+      svg {
+        padding: 0.1em;
+        cursor: pointer;
+        fill: $accentColor;
+        height: 2.5em;
+
+        @media #{$firstBreakpointStr} {
+          height: 1.5em;
+        }
+
+        width: auto;
+      }
+    }
   }
 
   #menu-hamburger-checkbox {
