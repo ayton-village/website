@@ -1,7 +1,7 @@
 ---
 title: Standing Orders
 menu:
-  main:
+  footer:
     weight: 90
 is_page: true
 toc: true

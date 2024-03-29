@@ -25,6 +25,10 @@ nav.footer {
       max-width: 33%;
     }
 
+    &.footer-menu li:not(:last-child) {
+      margin-bottom: 0.2em;
+    }
+
     &.icons {
       display: flex;
       flex-wrap: wrap;
