@@ -1,0 +1,13 @@
+@media print {
+  nav {
+    display: none;
+  }
+
+  footer {
+    display: none;
+  }
+
+  body {
+    font-size: 14pt;
+  }
+}
