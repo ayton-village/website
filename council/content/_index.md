@@ -11,7 +11,7 @@ Welcome to the website for Ayton Community Council. Ayton is a beautiful village
 
 {{<aside side="right">}}
 ![Map of Ayton CC boundary](/assets/boundary.webp)
-Ayton CC boundary
+*Ayton CC boundary*
 {{</aside>}}
 
 ## Next Meeting

@@ -58,7 +58,7 @@ prudently and in accordance with the law.
 Council, as far as possible, in the interests of the whole
 community that it serves.
 
-## 5. Selflessness
+## 5. Selflessness
 
 5.1 Community Councillors should act only in the public interest.
 They should never use their position as a Community Councillor
@@ -102,7 +102,7 @@ sure that annual accounts are produced showing the financial
 undertakings of the Community Council. They must also make
 sure that all resources are used efficiently, effectively and fairly.
 
-## 10. Openness
+## 10. Openness
 
 10.1 Community Councillors should be as open as possible about all
 their actions and their part in reaching decisions. They should
