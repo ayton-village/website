@@ -1,4 +1,4 @@
-baseURL = 'https://new.ayton-village.org'
+baseURL = 'https://ayton-village.org'
 languageCode = 'en-gb'
 disableHugoGeneratorInject = true
 title = 'Ayton, Berwickshire'
