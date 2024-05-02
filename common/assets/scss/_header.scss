@@ -39,9 +39,9 @@ header {
         right: 0;
         bottom: 0;
         left: 0;
-        background-color: transparentize($backgroundColor, 0.8);
+        background-color: transparentize($backgroundColor, 0.4);
         -webkit-backdrop-filter: saturate(1.8) blur(1em);
-        webkit-backdrop-filter: saturate(1.8) blur(1em);
+        backdrop-filter: saturate(1.8) blur(1em);
         z-index: 900;
       }
 

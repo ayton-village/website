@@ -1,5 +1,6 @@
 body {
   background-color: $boxColor;
+  overflow-wrap: break-word;
   color: $bodyColor;
   @include body-text;
   font-size: $fontSize;
