@@ -5,4 +5,4 @@ menu:
     weight: 1
 ---
 
-This website does not collect any data.
+The website for Ayton, Berwickshire does not collect any data.
