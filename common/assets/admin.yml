@@ -116,6 +116,8 @@ collections:
       - label: Date
         name: date
         widget: datetime
+        format: 'YYYY-MM-DD'
+        picker_utc: true
       - label: 'Special meeting'
         name: special_meeting
         required: false
@@ -149,13 +151,15 @@ collections:
     media_folder: /{{ .Site.Params.dir }}/assets/accounts
     public_folder: /accounts
     fields:
-      - label: Title
+      - label: Accounts for
         name: title
         widget: string
-        default: Accounts for 20XX-20XX
-      - label: Date
+        default: 20XX-20XX
+      - label: Publish date
         name: date
         widget: datetime
+        format: 'YYYY-MM-DD'
+        picker_utc: true
       - label: File
         name: file
         widget: file
