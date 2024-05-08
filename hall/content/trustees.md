@@ -5,15 +5,16 @@ menu:
   main:
     weight: 5
     name: Trustees
+  footer:
+    weight: 999
 ---
-
 The ACHA Board of Trustees elected at the 2023 AGM in May was:
 
 * **Chairman:** Bill Black
 * **Secretary:** Paul Smart
 * **Treasurer:** Graham Dolan
 * **Minutes Secretary:** Paul Smart
-* **Committee:** Brian Ulyatt, Jan Ulyatt,  Paul Smart, Chris Nitsche and Isabel Kellie. Rachel Hendry and Kyra Stirling
+* **Committee:** Brian Ulyatt, Jan Ulyatt,  Paul Smart, Chris Nitsche and Isabel Kellie and Rachel Hendry.
 
 The committee usually meets in the hall on the second Tuesday of each month at 7:00pm.
 
