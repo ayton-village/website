@@ -76,7 +76,7 @@ collections:
                 hint: >
                   Enter 999 to remove from menu
           - label: Footer menu
-            name: main
+            name: footer
             widget: object
             required: false
             fields:
@@ -178,7 +178,7 @@ collections:
       - label: Design
         name: design
         preview_path: "/"
-        file: main/data/design.yaml
+        file: {{ .Site.Params.dir }}/data/design.yaml
         fields:
           - label: Colours
             name: colors
@@ -192,13 +192,17 @@ collections:
                 name: body
                 widget: string
                 default: "#000000"
+              - label: Boxes
+                name: box
+                widget: string
+                default: "#f2f2f2"
               - label: Accent
                 name: accent
                 widget: string
                 default: "#cc3232"
       - label: Redirects
         name: redirects
-        file: main/data/redirects.yaml
+        file: {{ .Site.Params.dir }}/data/redirects.yaml
         fields:
           - label: Redirects
             label_singular: Redirect
