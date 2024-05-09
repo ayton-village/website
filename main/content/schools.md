@@ -6,6 +6,8 @@ redirects:
 menu:
   main:
     weight: 20
+  footer:
+    weight: 999
 ---
 
 Ayton is served by [Ayton Primary School](https://aytonprimary.com), a 4 teacher school catering for around 85 P1&ndash;P7 pupils. There is no nursery at Ayton, but [Reston Primary School](https://restonprimaryschool.wordpress.com) has one.
