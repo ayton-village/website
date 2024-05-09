@@ -18,7 +18,5 @@ To contact Ayton Community Council, email <council@ayton-village.org>.
 * **Alison Currie**
 * **Toby Foster**
 * **Darren Hall**
-* **Peter Hemingway**
 * **Rachel Hendry**
-* **Christopher Norris**
 * **Amanda Wright**
