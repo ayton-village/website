@@ -7,6 +7,8 @@ redirects:
 menu:
   main:
     weight: 5
+  footer:
+    weight: 999
 ---
 
 Coming soon

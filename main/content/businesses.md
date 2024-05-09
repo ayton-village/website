@@ -5,6 +5,8 @@ menu:
   main:
     name: Businesses
     weight: 30
+  footer:
+    weight: 999
 ---
 
 

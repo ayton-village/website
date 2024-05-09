@@ -1,6 +1,8 @@
 ---
 title: Constitution of Ayton Community Council
 menu:
+  main:
+    weight: 999
   footer:
     name: Constitution
     weight: 70

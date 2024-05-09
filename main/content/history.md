@@ -8,6 +8,8 @@ menu:
   main:
     name: History
     weight: 30
+  footer:
+    weight: 999
 ---
 
 

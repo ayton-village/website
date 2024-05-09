@@ -4,6 +4,8 @@ menu:
   main:
     name: Members
     weight: 5
+  footer:
+    weight: 999
 ---
 
 To contact Ayton Community Council, email <council@ayton-village.org>.

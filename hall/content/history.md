@@ -4,6 +4,8 @@ is_page: true
 menu:
   main:
     weight: 60
+  footer:
+    weight: 999
 ---
 
 The hall was built as a soup kitchen in Victorian times and later acquired by the Church of Scotland, when it became known as the Church Hall or the Mission Hall. Up to the late 1970s it was used along with the much larger Volunteer Hall in what is now the Old Town. The Volunteer Hall was sold and demolished to make way for new housing in the 1970s.

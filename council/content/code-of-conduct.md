@@ -1,6 +1,8 @@
 ---
 title: Code of Conduct for Community Councillors
 menu:
+  main:
+    weight: 999
   footer:
     name: Code of Conduct
     weight: 80

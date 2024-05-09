@@ -8,6 +8,8 @@ menu:
   main:
     name: Organisations
     weight: 20
+  footer:
+    weight: 999
 ---
 
 ## Ayton Church

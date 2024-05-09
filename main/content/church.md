@@ -7,6 +7,8 @@ redirects:
 menu:
   main:
     weight: 999
+  footer:
+    weight: 999
 ---
 
 ## Church of Scotland – Ayton and District Churches

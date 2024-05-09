@@ -4,6 +4,8 @@ is_page: true
 menu:
   main:
     weight: 999
+  footer:
+    weight: 999
 ---
 
 ## 1797&ndash;1885
