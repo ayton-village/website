@@ -20,5 +20,3 @@ We aren’t exactly sure when the hall was built. When we were looking at the ou
 The ACHA second hand bookshop operated from 2006 to 2009, raising nearly £2000 to help the hall refurbishment. It was open on Saturday mornings and was well supported for a while. The area where the bookshop was in the old back of the hall is where the new kitchen is. In times past this small room was the Berwickshire county library branch in the village. It was always damp!
 
 ![](/assets/book-shop-004.jpg)
-
-![]()
