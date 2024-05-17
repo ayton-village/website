@@ -2,6 +2,8 @@
 redirects:
   - from: "/ayton-community-council/"
     to: "https://council.ayton-village.org/"
+  - from: "/community_hall_home.htm"
+    to: "https://hall.ayton-village.org/"
   - from: "/community_council_home.htm"
     to: "https://council.ayton-village.org/"
   - from: "/village-photos/"
