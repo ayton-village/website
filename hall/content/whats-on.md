@@ -8,4 +8,3 @@ menu:
   footer:
     weight: 999
 ---
-![]()
