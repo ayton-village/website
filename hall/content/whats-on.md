@@ -8,3 +8,4 @@ menu:
   footer:
     weight: 999
 ---
+Please find here what is on in Ayton Community Hall
