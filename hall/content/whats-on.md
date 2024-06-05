@@ -1,6 +1,6 @@
 ---
 title: What's On?
-is_path: true
+is_page: true
 toc: false
 menu:
   main:
@@ -10,6 +10,4 @@ menu:
 ---
 Please find here what is on in Ayton Community Hall
 
-
-
-<iframe src="https://calendar.google.com/calendar/embed?src=aytoncomhall%40gmail.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLondon&amp;src=aytoncomhall%40gmail.com&amp;color=%234285F4&amp;showTitle=0&amp;showTz=0&amp;showCalendars=1&amp;hl=en_GB&amp;mode=MONTH" style="width: 100%; height: 30em" frameborder="0" scrolling="no"></iframe>

@@ -30,7 +30,7 @@ collections:
         name: title
         widget: string
       - label: Is Page
-        name: is_path
+        name: is_page
         default: true
         widget: hidden
       - label: Table of Contents
@@ -72,7 +72,7 @@ collections:
                 name: weight
                 widget: "number"
                 required: true
-                default: 50
+                default: 999
                 hint: >
                   Enter 999 to remove from menu
           - label: Footer menu
@@ -91,7 +91,7 @@ collections:
                 name: weight
                 widget: "number"
                 required: true
-                default: 50
+                default: 999
                 hint: >
                   Enter 999 to remove from menu
   {{- if not (eq .Site.Params.dir "main") }}
