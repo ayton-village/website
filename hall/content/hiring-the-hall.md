@@ -4,7 +4,7 @@ is_path: true
 toc: false
 menu:
   main:
-    weight: 20
+    weight: 6
   footer:
     weight: 999
 ---

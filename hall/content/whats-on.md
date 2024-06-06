@@ -4,7 +4,7 @@ is_page: true
 toc: false
 menu:
   main:
-    weight: 10
+    weight: 5
   footer:
     weight: 999
 ---

@@ -3,7 +3,7 @@ title: ACHA Board of Trustees
 is_page: true
 menu:
   main:
-    weight: 5
+    weight: 20
     name: Trustees
   footer:
     weight: 999
