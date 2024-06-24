@@ -1,6 +1,6 @@
 ---
 title: Hiring the hall
-is_path: true
+is_page: true
 toc: false
 menu:
   main:
