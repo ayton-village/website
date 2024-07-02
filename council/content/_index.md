@@ -18,7 +18,7 @@ Welcome to the website for Ayton Community Council. Ayton is a beautiful village
 
 ## Next Meeting
 
-**The next meeting will be held on Tuesday 7 May 20024 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
+**The next meeting will be held on Tuesday 6 August 2024 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
 
 ## What is a Community Council?
 
