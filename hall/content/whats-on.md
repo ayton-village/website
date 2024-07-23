@@ -10,16 +10,20 @@ menu:
 ---
 Please find here what is on in Ayton Community Hall
 
-🌟 Date for your Diary 🌟 
+### 🌟 Date for your Diary 🌟 
 
-SATURDAY 7TH SEPTEMBER 
-
-Folk band Hungrytown are coming to Ayton Community Hall as part of their tour!
-
-Get your tickets from any of the hall trustees, phoning the number on the poster, messaging the facebook page or sending us an email 🎟
+{{<aside side="right">}}
 
 ![](/assets/screenshot_20240723_150543_business-suite.jpg)
 
+{{</aside>}}
+
+
+**SATURDAY 7TH SEPTEMBER** 
+
+Folk band Hungrytown are coming to Ayton Community Hall as part of their tour!
+
+Get your tickets from any of the hall trustees, phoning [the number on the poster](tel:+447802667126), messaging [the Facebook page](https://www.facebook.com/AytonCommunityHall) or sending us [an email](mailto:hall@ayton-village.org) 🎟
 
 
 
