@@ -89,20 +89,20 @@ Scheme to set a common date in each year for Community Council elections.
 chaired by the Returning Officer or his nominee (who shall normally be an ex officio
 member, if available), until a Chairperson has been elected, the Council shall elect from
 its eligible members a Chairperson, to be known by such title as the Council decide,
-subject to approval of that title by the Scottish Borders Council, and such other office-
-bearers as the Council shall deem necessary. Thereafter such office-bearers, who shall
+subject to approval of that title by the Scottish Borders Council, and such other office
+bearers as the Council shall deem necessary. Thereafter such office bearers, who shall
 be eligible for re-election, shall be elected or re-elected at the first Public Meeting
 following a Council election.
 
 8.2 The Council may elect a Secretary and a Treasurer (which offices may be combined) who
 shall hold office and may be eligible for re-election in accordance with the provisions of
 paragraph 8.1 above. In the event of the Council being unable to elect a Secretary and/
-or Treasurer, the Secretary and Treasurer (but no other office-bearers) may be
+or Treasurer, the Secretary and Treasurer (but no other office bearers) may be
 appointed from outwith the membership of the Council and may receive such
 remuneration as the Council may determine from the resources available to them, there
 being no extra funding available from the Scottish Borders Council for this purpose.
 Such appointees from outwith the membership shall be entitled to speak only on
-matters relating to their function as office-bearers and shall have no voting rights.
+matters relating to their function as office bearers and shall have no voting rights.
 
 8.3 The Chairperson shall:
 
@@ -129,13 +129,13 @@ matters relating to their function as office-bearers and shall have no voting ri
 3. present financial information to the Council when required; and
 4. if nominated to do so, prepare annually an Abstract of Accounts for submission to the Annual General Meeting.
 
-8.7 Any vacancy in office arising during the office-bearer’s term of office may be filled at any
+8.7 Any vacancy in office arising during the office bearer’s term of office may be filled at any
 meeting of the Council, provided that notice of the vacancy has been included in the
 agenda for the meeting.
 
 8.8 As soon as practicable following such appointments, the Council shall lodge with the
 Service Director of Strategy and Policy of the Scottish Borders Council, a return
-specifying the full names, designations and addresses of the Council office-bearers and
+specifying the full names, designations and addresses of the Council office bearers and
 Auditor(s)/Examiner(s) of their Accounts and subsequently advise him, in writing, of all
 changes thereof within one month of such changes occurring.
 
@@ -266,7 +266,7 @@ stated objects.
 to further its objects.
 
 16.3 The Council shall keep an accurate record of its receipts and payments and the
-Treasurer or other nominated office-bearer shall prepare annually an Abstract of
+Treasurer or other nominated office bearer shall prepare annually an Abstract of
 Accounts. The books and Abstract of each Community Council shall be scrutinised by an
 auditor/independent examiner (who shall not be a member of the Council), duly
 appointed from year to year for that purpose by the Council following approval by the
@@ -287,7 +287,7 @@ Borders Council unencumbered and shall be administered and applied by them in su
 manner as the Scottish Borders Council, in line with the wishes of the Community
 Council in the aforementioned asset register, may determine to be for the benefit of all
 or part of the Community Council area, said discretion including the power of sale. The
-members and office-bearers of the former Council shall remain liable following such
+members and office bearers of the former Council shall remain liable following such
 transfer for their intromissions with the former Community Council’s assets during their
 term of office.
 
