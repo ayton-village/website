@@ -96,8 +96,8 @@ following a Council election.
 
 8.2 The Council may elect a Secretary and a Treasurer (which offices may be combined) who
 shall hold office and may be eligible for re-election in accordance with the provisions of
-paragraph 8.1 above. In the event of the Council being unable to elect a Secretary and/
-or Treasurer, the Secretary and Treasurer (but no other office bearers) may be
+paragraph 8.1 above. In the event of the Council being unable to elect a Secretary and/or
+Treasurer, the Secretary and Treasurer (but no other office bearers) may be
 appointed from outwith the membership of the Council and may receive such
 remuneration as the Council may determine from the resources available to them, there
 being no extra funding available from the Scottish Borders Council for this purpose.
