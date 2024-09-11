@@ -18,4 +18,6 @@ Coming soon.
 
 [![Image of SWI upcoming events flyer](/assets/swi-upcoming.png "SWI Upcoming Events")](/assets/swi-upcoming.pdf)
 
+*Click for PDF*
+
 {{</aside>}}
