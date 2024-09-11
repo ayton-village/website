@@ -10,5 +10,8 @@ menu:
   footer:
     weight: 999
 ---
+Coming soon.
 
-Coming soon
+## Scottish Women's Institute calendar
+
+![Image of SWI upcoming events flyer](/assets/swi-upcoming.png "SWI Upcoming Events")
