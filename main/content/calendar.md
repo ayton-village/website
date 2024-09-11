@@ -14,4 +14,8 @@ Coming soon.
 
 ## Scottish Women's Institute calendar
 
-![Image of SWI upcoming events flyer](/assets/swi-upcoming.png "SWI Upcoming Events")
+{{<aside side="left">}}
+
+[![Image of SWI upcoming events flyer](/assets/swi-upcoming.png "SWI Upcoming Events")](/assets/swi-upcoming.pdf)
+
+{{</aside>}}
