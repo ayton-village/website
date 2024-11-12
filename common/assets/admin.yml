@@ -179,6 +179,37 @@ collections:
     delete: false
     editor: { preview: false }
     files:
+       - label: Menu
+         name: menu
+         preview_path: "/"
+         file: data/menu.yaml
+         fields:
+           - label: Sites
+             widget: list
+             name: sites
+             fields:
+               - label: Name
+                 name: name
+                 widget: string
+               - label: Link
+                 name: link
+                 widget: string
+           - label: Icons
+             widget: list
+             name: icons
+             fields:
+               - label: Title
+                 name: title
+                 widget: string
+               - label: Link
+                 name: link
+                 widget: string
+               - label: Icon
+                 name: icon
+                 widget: select
+                 options:
+                   - email
+                   - facebook
       - label: Design
         name: design
         preview_path: "/"
