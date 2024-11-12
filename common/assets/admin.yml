@@ -208,6 +208,7 @@ collections:
                  name: icon
                  widget: select
                  options:
+                   - instagram
                    - email
                    - facebook
       - label: Design
