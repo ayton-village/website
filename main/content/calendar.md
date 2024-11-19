@@ -24,16 +24,6 @@ If you would like to advertise events in and around Ayton, please let us know by
 
 ## [SWI](/organisations#ayton-scottish-womens-institute) Event Calendar
 
-#### 25th September 2024
-
-Get ahead for Christmas with seasonally themed Lino printing with Victoria Lowe.
-
-Competition: Make – a photo taken on holiday/this summer!  Bring along – a printed item
-
-#### 16th October @ 11am
-
-A tour of the Distillery including tasting & Museum at Ad Gefrin, Wooler.  Also available are shop and café.
-
 #### 27th November
 
 Making Christmas Cake decorations with Anne Burgess.
