@@ -59,11 +59,8 @@
   <div class="header-footer-wrapper">
     <header>
       <div class="site-title"><a href="{{ .Site.BaseURL }}">
-          {{- $firstWord := true -}}
           {{- range strings.Split .Site.Title " " -}}
-          {{- if not $firstWord -}}<br>{{- end -}}
-          {{- $firstWord = false }}
-          {{- . -}}
+          <div {{- if strings.HasSuffix . "," }} class="ends-comma" {{- end }}>{{- . -}}</div>
           {{- end -}}
         </a></div>
       <nav>
@@ -128,12 +125,10 @@
       <ul class="sites">
         {{ range .Site.Data.menu.sites }}
         <li class="site-title"><a href="{{ .link }}" target="_blank">
-            {{- $firstWord := true -}}
             {{- range strings.Split .name " " -}}
-            {{- if not $firstWord -}}<br>{{- end -}}
-            {{- $firstWord = false }}
-            {{- . -}}
-            {{- end -}}</a></li>
+            <div {{- if strings.HasSuffix . "," }} class="ends-comma" {{- end }}>{{- . -}}</div>
+            {{- end -}}
+          </a></li>
         {{ end }}
       </ul>
       {{ end }}
