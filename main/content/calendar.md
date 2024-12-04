@@ -11,24 +11,9 @@ menu:
     weight: 999
 ---
 
-#### Sunday 1 December
-
-Ayton Christmas Market, 11:00–16:00 at Ayton Bowling Club
-
-![Ayton Christmas Market](/assets/christmas-market.jpeg)
-
-
----
-
 If you would like to advertise events in and around Ayton, please let us know by [email](mailto:events@ayton-village.org).
 
 ## [SWI](/organisations#ayton-scottish-womens-institute) Event Calendar
-
-#### 27th November
-
-Making Christmas Cake decorations with Anne Burgess.
-
-Competition: make – 3 butterfly cakes.  Bring along: Favourite cake related item.
 
 #### 11th December
 
