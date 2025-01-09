@@ -16,4 +16,5 @@ To contact Ayton Community Council, email <council@ayton-village.org>.
 * **Alison Currie**
 * **Toby Foster**
 * **Darren Hall**
+* **Emily Sanderson**
 * **Amanda Wright**
