@@ -1,13 +1,31 @@
 @media print {
+  body {
+    padding: 3em;
+    font-size: 12pt;
+  }
+
+  .site-title {
+    font-size: 1em;
+  }
+
   nav {
     display: none;
   }
 
-  footer {
-    display: none;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    page-break-after: avoid;
   }
 
-  body {
-    font-size: 14pt;
+  table {
+    page-break-inside: avoid;
+  }
+
+  footer {
+    display: none;
   }
 }
