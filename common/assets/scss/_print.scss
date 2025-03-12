@@ -1,11 +1,27 @@
 @media print {
   body {
     padding: 3em;
-    font-size: 12pt;
+    font-size: 10pt;
+  }
+
+  header {
+    float: left;
   }
 
   .site-title {
     font-size: 1em;
+  }
+
+  h1 {
+    font-size: 1rem;
+  }
+
+  h1+* {
+    clear: left;
+  }
+
+  aside.right+* {
+    clear: left;
   }
 
   nav {
@@ -27,5 +43,23 @@
 
   footer {
     display: none;
+  }
+
+  #present,
+  #members-of-the-public-present,
+  #apologies-for-absence,
+  #apologies {
+    +ul {
+      padding-left: 0;
+
+      >li {
+        display: inline;
+
+        &:not(:last-child):after {
+          content: '; ';
+          display: inline;
+        }
+      }
+    }
   }
 }
