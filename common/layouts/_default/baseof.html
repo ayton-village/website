@@ -12,7 +12,7 @@
     {{- if not .IsHome }} — {{.Site.Title }}{{ end -}}
   </title>
   {{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" false) -}}
-  {{- $style := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | resources.ToCSS
+  {{- $style := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | css.Sass
   $options | resources.Fingerprint "md5" -}}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="all">
   <meta property="og:title" content="{{ .Page.Title }}">
