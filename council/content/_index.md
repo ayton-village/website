@@ -13,12 +13,12 @@ Welcome to the website for Ayton Community Council. Ayton is a beautiful village
 
 {{<aside side="right">}}
 ![Map of Ayton CC boundary](/assets/boundary.webp)
-*Ayton CC boundary*
+_Ayton CC boundary_
 {{</aside>}}
 
 ## Next Meeting
 
-**The next meeting will be held on Tuesday 1 April 2025 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
+**The next meeting will be held on Tuesday 6 May 2025 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
 
 Most meetings are held at 7pm on the first Tuesday of the month, but please check this website or the community council notice board outside the shop.
 
