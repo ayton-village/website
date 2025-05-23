@@ -140,6 +140,32 @@ collections:
         widget: markdown
         default: 'PDF of accounts linked below.'
   {{- end }}
+  - name: news
+    label: News
+    label_singular: Article
+    folder: {{ .Site.Params.dir }}/content/news
+    create: true
+    format: frontmatter
+    preview_path: 'news/{{ print "{{ slug }}" }}/'
+    editor: { preview: false }
+    media_folder: {{ .Site.Params.dir }}/assets/news
+    public_folder: /news
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: URL
+        name: slug
+        widget: string
+        hint: What comes after ‘/news/’, e.g. ‘christmas-2025’
+      - label: Date
+        name: publishDate
+        widget: datetime
+        picker_utc: true
+      - label: Content
+        name: body
+        widget: markdown
+        required: true
   - label: Site settings
     name: site_settings
     delete: false
