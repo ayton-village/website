@@ -1,4 +1,4 @@
-baseURL = 'https://aytongardens.com'
+baseURL = 'https://gardening.ayton-village.org'
 languageCode = 'en-gb'
 disableHugoGeneratorInject = true
 title = 'Ayton Gardening Society'
