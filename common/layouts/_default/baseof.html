@@ -58,11 +58,21 @@
 <body class="{{ replace .Page.Type " -" " " }}">
   <div class="header-footer-wrapper">
     <header>
-      <div class="site-title"><a href="{{ .Site.BaseURL }}">
+      {{ with resources.Get .Site.Data.design.logo }}
+        <div class="site-logo"><a href="{{ $.Site.BaseURL }}">
+          {{ if and (not (hasPrefix .MediaType "image/svg")) (gt .Width "1200") }}
+            <img src="{{ (.Resize "1200x").RelPermalink }}" title="{{ $.Site.Title }}" />
+          {{ else }}
+            <img src="{{ .RelPermalink }}" title="{{ $.Site.Title }}" />
+          {{ end }}
+          </a></div>
+        {{ else }}
+        <div class="site-title"><a href="{{ .Site.BaseURL }}">
           {{- range strings.Split .Site.Title " " -}}
-          <div {{- if strings.HasSuffix . "," }} class="ends-comma" {{- end }}>{{- . -}}</div>
+            <div {{- if strings.HasSuffix . "," }} class="ends-comma" {{- end }}>{{- . -}}</div>
           {{- end -}}
-        </a></div>
+          </a></div>
+        {{ end }}
       <nav>
         <input type="checkbox" id="menu-hamburger-checkbox">
         <label for="menu-hamburger-checkbox"></label>

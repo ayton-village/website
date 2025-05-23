@@ -249,6 +249,10 @@ collections:
         preview_path: "/"
         file: {{ .Site.Params.dir }}/data/design.yaml
         fields:
+          - label: Logo
+            widget: file
+            name: logo
+            required: false
           - label: Colours
             name: colors
             widget: object
