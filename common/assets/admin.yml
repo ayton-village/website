@@ -10,7 +10,7 @@ backend:
 site_url: "{{ .Site.BaseURL }}"
 media_folder: {{ .Site.Params.dir }}/assets/assets
 public_folder: /assets/
-logo_url: {{ (resources.Get "favicon.svg" | resources.Fingerprint "md5").RelPermalink }}
+logo_url: {{ (resources.Get (default "favicon.svg" .Site.Data.design.logo) | resources.Fingerprint "md5").RelPermalink }}
 collections:
   - name: pages
     label: Pages
