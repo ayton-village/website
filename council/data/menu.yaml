@@ -1,4 +1,25 @@
 ---
+main:
+  - type: page
+    link: Home page
+    title: Home
+  - type: page
+    link: Members
+    title: Members
+  - type: page
+    link: Minutes list
+footer:
+  - type: page
+    link: Privacy policy
+  - type: page
+    link: Constitution
+    title: Constitution
+  - type: page
+    link: Code of Conduct
+    title: Code of Conduct
+  - type: page
+    link: Standing orders
+    title: Standing Orders
 sites:
   - name: Ayton, Berwickshire
     link: https://ayton-village.org

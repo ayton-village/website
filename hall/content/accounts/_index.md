@@ -1,8 +1,6 @@
 ---
 title: Accounts
-menu:
-  main:
-    weight: 19
+internal_name: Accounts list
 is_page: true
 ---
 

@@ -1,17 +1,11 @@
 ---
 title: History of Ayton
+internal_name: History
 is_page: true
 redirects:
   - /our-history/
 toc: true
-menu:
-  main:
-    name: History
-    weight: 30
-  footer:
-    weight: 999
 ---
-
 
 **For more information on Ayton's history, please visit [Ayton Historical Society's website](https://www.aytonhistory.com/).**
 
@@ -30,9 +24,9 @@ There were the first signs of a community in the area. Evidence of this was reve
 ## ~750 BC
 
 The first Celts came to what is now Scotland, displacing ancestral settlers as the dominant group.
-However, the Celts, as was typical around their homelands across Europe, were never one kingdom as separate families gathered together to form tribes or clans. 
+However, the Celts, as was typical around their homelands across Europe, were never one kingdom as separate families gathered together to form tribes or clans.
 
-Scotland had at least 16 tribes with the tribesmen loyal to their own respective kings and queens. Those north of the Forth-Clyde isthmus were to become known as the Pictii by the Romans, or as we know call them, "Picts".  Those in the south were regarded as Brythonic/Brethonic or, as they became known, the "Britons". 
+Scotland had at least 16 tribes with the tribesmen loyal to their own respective kings and queens. Those north of the Forth-Clyde isthmus were to become known as the Pictii by the Romans, or as we know call them, "Picts". Those in the south were regarded as Brythonic/Brethonic or, as they became known, the "Britons".
 
 The tribe which ruled what is now The Eastern Borders, the Lothians and Northumberland were the Votadini (later known as Y Gododdin by the dark ages): their capital was located on a hill in East Lothian called Traprain Law (between Haddington and East Linton just off the A1). These tribesmen and women, as well as those living in most of the area to the south of the Forth-Clyde isthmus probably spoke a language similar to the old Welsh/Brethonic tribes occupying what were later to become Wales and England.
 
@@ -65,6 +59,7 @@ James Hume, Earl of Hume, a supporter of the Jacobite cause, aided the Earl of M
 World War Two: 15 men from Ayton Parish lost their lives in defence of their country
 
 ## 1948
+
 Between 8 and 13 August 15 inches of rain fell. The River Eye burst its banks and damaged many railway bridges. Ayton, lying on the high ground was not flooded by the river. Unfortunately, the Bean Burn, which runs through the village, burst its banks and caused much flooding.
 
 ## 1966

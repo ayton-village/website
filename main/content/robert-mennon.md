@@ -1,11 +1,7 @@
 ---
 title: Robert Mennon, the Ayton Bard
+internal_name: Robert Mennon
 is_page: true
-menu:
-  main:
-    weight: 999
-  footer:
-    weight: 999
 ---
 
 ## 1797&ndash;1885
@@ -18,21 +14,21 @@ Robert Mennon began early in life to cultivate the writing of verse and in 1869 
 
 His poetical productions are not of the highest merit, but they are generally pleasing and show the writer to have been a man of refined feeling and a good example of an honest, God-fearing and patriotic Scot.
 
-Extracted from the *Minstrelsy of the Merse*
+Extracted from the _Minstrelsy of the Merse_
 
-Among his most famous poems was *The Whoopers of Ayton*, which was dedicated to the people of Ayton. (Residents of Ayton at this time were known around the district as Whoopers or Whuppers).
+Among his most famous poems was _The Whoopers of Ayton_, which was dedicated to the people of Ayton. (Residents of Ayton at this time were known around the district as Whoopers or Whuppers).
 
 Our information is that, to qualify as a Whooper, one’s parents and grandparents had to have been born and lived in Ayton.
 
 Thanks to [Ayton Local History Society](https://www.aytonhistory.com/people#comp-k91p8im1) for providing us with a copy of the song.
 
-> ### The Whoopers of Ayton  (Tune – “Paddy’s Wedding”)
-> 
+> ### The Whoopers of Ayton (Tune – “Paddy’s Wedding”)
+>
 > For lasses mony blythe an’ bonny  
 > Set a’ our hearts a beating, o,  
 > Wi lad’s o’ fame proud o’ the name  
 > O’ the famous Whoopers of Ayton, o.
-> 
+>
 > To be a bard is unco hard,  
 > Whan kent by a’ around ye, o,  
 > Ane’s native place ’tis a’ disgrace,  
@@ -40,10 +36,10 @@ Thanks to [Ayton Local History Society](https://www.aytonhistory.com/people#comp
 > But if I can I’ll try a plan  
 > Anent their spleen defeator, o,  
 > An’ raise to fame the far-kent name  
-> O’ the famous Whoopers of Ayton, o.  
-> 
+> O’ the famous Whoopers of Ayton, o.
+>
 > [Chorus]
-> 
+>
 > To sing the praise of former days  
 > When Ayton’s drolls were mony, o,  
 > Wad tak a muse wi’ brighter views  
@@ -51,10 +47,10 @@ Thanks to [Ayton Local History Society](https://www.aytonhistory.com/people#comp
 > There’s Wattenston wha’ cared for nane,  
 > McDugal fam’d for dancin’, o:  
 > Renown’d Mark Ranks for funny pranks,  
-> An’ Petery for romancin’, o.  
-> 
+> An’ Petery for romancin’, o.
+>
 > [Chorus]
-> 
+>
 > Auld nicky-tripe wi’ cully-pipe  
 > Self-praise was a’ his glory, o;  
 > An’ Tailor prick wi’ stilt an stick  
@@ -63,9 +59,9 @@ Thanks to [Ayton Local History Society](https://www.aytonhistory.com/people#comp
 > Although she pray’d wi’ fervour, o ;  
 > An’ Peggy Nott nane ere did bloat  
 > For fear the want should starne her, o,!
-> 
+>
 > [Chorus]
-> 
+>
 > Surroundin’ parts wi’ spitefu’ hearts  
 > Wad fain eclipse our glory, o:  
 > An’ aften try’d, an’ were defied  
@@ -74,9 +70,9 @@ Thanks to [Ayton Local History Society](https://www.aytonhistory.com/people#comp
 > Wha claim that appellation, o  
 > Wha’s mony arts or mental parts  
 > Command approbation, o.
-> 
+>
 > [Chorus]
-> 
+>
 > It is their praise aloft to raise  
 > By which to gain their favour, o:  
 > But as I claim a kindred frame  
@@ -85,9 +81,9 @@ Thanks to [Ayton Local History Society](https://www.aytonhistory.com/people#comp
 > Ans aften been remarket, o;  
 > Where e’er they be, they bear the gree  
 > At Kirk, at ball, or market, o.
-> 
+>
 > [Chorus]
-> 
+>
 > Then let us toast wha rule the roast,  
 > Success to a’ our lasses, o,  
 > An’ if ye be a Whooper free,  
@@ -96,5 +92,5 @@ Thanks to [Ayton Local History Society](https://www.aytonhistory.com/people#comp
 > To the hole below our noses, o!  
 > Nae grief or care except the Fair,  
 > Shall ever discompose us, o.
-> 
+>
 > [Chorus]

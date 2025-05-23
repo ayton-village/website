@@ -67,25 +67,30 @@
         <input type="checkbox" id="menu-hamburger-checkbox">
         <label for="menu-hamburger-checkbox"></label>
         <ul>
-          {{ range .Site.Menus.main }}
-          {{ if ne .Weight 999 }}
-          <li{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} class="active" {{ end }}>
-            {{ if .URL }}<a href="{{ .URL }}" title="{{ .Title }}">{{ else }}<span>{{ end -}}
-                {{ .Name }}
-                {{- if .URL }}</a>{{ else }}</span>{{ end }}
-            </li>
+          {{ range .Site.Data.menu.main }}
+          {{ $title := .title }}
+          {{- if eq .type "page" -}}
+          {{- with (index (where site.Pages ".Params.internal_name" .link) 0) -}}
+          <li {{- if eq .RelPermalink page.RelPermalink }} class="active" {{ end }}>
+            <a href="{{ .RelPermalink }}">
+              {{- default .Title $title -}}
+            </a>
+          </li>
+          {{- end -}}
+          {{- else if eq .type "external" -}}
+          <li><a href="{{ .link }}" target="_blank">{{ .title }}</a></li>
+          {{- end -}}
+          {{- end -}}
+          {{ if .Site.Data.menu.icons }}
+          <li class="icons">
+            {{ range .Site.Data.menu.icons }}
+            <a href="{{ .link }}" {{- if or (strings.HasPrefix .link "http" ) (strings.HasSuffix .link ".pdf" ) }}
+              target="_blank" {{- end }} title="{{ .alt }}">
+              {{- strings.Chomp (safe.HTML (resources.Get (printf "/icons/%s.svg" .icon)).Content) -}}
+            </a>
             {{ end }}
-            {{ end }}
-            {{ if .Site.Data.menu.icons }}
-            <li class="icons">
-              {{ range .Site.Data.menu.icons }}
-              <a href="{{ .link }}" {{- if or (strings.HasPrefix .link "http" ) (strings.HasSuffix .link ".pdf" ) }}
-                target="_blank" {{- end }} title="{{ .alt }}">
-                {{- strings.Chomp (safe.HTML (resources.Get (printf "/icons/%s.svg" .icon)).Content) -}}
-              </a>
-              {{ end }}
-            </li>
-            {{ end }}
+          </li>
+          {{ end }}
         </ul>
       </nav>
     </header>
@@ -98,17 +103,22 @@
   </div>
   <footer>
     <nav class="footer">
-      {{ if .Site.Menus.footer }}
+      {{ with .Site.Data.menu.footer }}
       <ul class="footer-menu">
-        {{ range .Site.Menus.footer }}
-        {{ if ne .Weight 999 }}
-        <li{{ if or ($.IsMenuCurrent "footer" .) ($.HasMenuCurrent "footer" .) }} class="active" {{ end }}>
-          {{ if .URL }}<a href="{{ .URL }}" title="{{ .Title }}">{{ else }}<span>{{ end -}}
-              {{ .Name }}
-              {{- if .URL }}</a>{{ else }}</span>{{ end }}
-          </li>
-          {{ end }}
-          {{ end }}
+        {{ range . }}
+        {{ $title := .title }}
+        {{- if eq .type "page" -}}
+        {{- with (index (where site.Pages ".Params.internal_name" .link) 0) -}}
+        <li {{- if eq .RelPermalink page.RelPermalink }} class="active" {{ end }}>
+          <a href="{{ .RelPermalink }}">
+            {{- default .Title $title -}}
+          </a>
+        </li>
+        {{- end -}}
+        {{- else if eq .type "external" -}}
+        <li><a href="{{ .link }}" target="_blank">{{ .title }}</a></li>
+        {{- end -}}
+        {{- end -}}
       </ul>
       {{ end }}
       {{ if .Site.Data.menu.icons }}

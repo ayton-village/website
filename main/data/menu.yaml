@@ -1,4 +1,24 @@
 ---
+main:
+  - type: page
+    link: Home page
+    title: Home
+  - type: page
+    link: Calendar
+  - type: page
+    link: Clubs
+    title: Organisations
+  - type: page
+    link: Schools
+  - type: page
+    link: Businesses
+    title: Businesses
+  - type: page
+    link: History
+    title: History
+footer:
+  - type: page
+    link: Privacy policy
 sites:
   - name: Ayton Community Council
     link: https://council.ayton-village.org

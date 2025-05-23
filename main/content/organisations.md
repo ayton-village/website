@@ -1,26 +1,20 @@
 ---
 title: Clubs & Organisations
+internal_name: Clubs
 is_page: true
 toc: true
 redirects:
   - /clubs-and-organisations/
-menu:
-  main:
-    name: Organisations
-    weight: 20
-  footer:
-    weight: 999
 ---
 
 ## Ayton Church
 
-* [Facebook](https://www.facebook.com/people/Church-of-Scotland-Ayton-and-District-Churches/100066754323382/)
-* [More information](/church/)
+- [Facebook](https://www.facebook.com/people/Church-of-Scotland-Ayton-and-District-Churches/100066754323382/)
+- [More information](/church/)
 
 ## Ayton Christmas Lights Group
 
 The Christmas lights group was established in 2021 to organise the village lights and Christmas tree. Prior to this the lights were the responsibility of Ayton Community Council. For further information contact Graham Dolan on [01890 781411](tel:00441890781411).
-
 
 ## Ayton Community Council
 
@@ -38,7 +32,7 @@ The group was set up in 2011 to work to generally improve the look of the villag
 
 ## Ayton Evergreens Club
 
-The Evergreens caters for the over 60s in the village. The club meets monthly in Ayton & District Bowling Club clubhouse. Contact: Moira Elliot    [01890 781551](tel:00441890781551).
+The Evergreens caters for the over 60s in the village. The club meets monthly in Ayton & District Bowling Club clubhouse. Contact: Moira Elliot [01890 781551](tel:00441890781551).
 
 ## Ayton Gardening Society
 
@@ -69,7 +63,6 @@ The Scottish Women’s Institute (SWI) meets monthly on the fourth Wednesday of 
 **Press secretary:** Sarah Woodbury, The Retreat, Beanburn, Ayton ([01890 781941](tel:00441890781941)/[07947 490623](tel:00447947490623))  
 **Secretary, treasurer:** Jen Logan, Alemill, Eyemouth [07799 621981](tel:00447799621981)  
 **Committee:** Wendy Carter ([07745 107909](tel:00447745107909)), Judith Hamilton ([07872065017](tel:00447872065017)).
-
 
 ## Ayton & District Bowling Club
 

@@ -1,11 +1,6 @@
 ---
 title: Ayton Community Council
-menu:
-  main:
-    name: Home
-    weight: -1
-  footer:
-    weight: 999
+internal_name: Home page
 is_page: true
 ---
 

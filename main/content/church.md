@@ -1,14 +1,10 @@
 ---
 title: Ayton Church
+internal_name: Church
 is_page: true
 redirects:
   - /ayton-church/
   - /church-meeting-times/
-menu:
-  main:
-    weight: 999
-  footer:
-    weight: 999
 ---
 
 ## Church of Scotland – Ayton and District Churches
@@ -20,7 +16,7 @@ On 1 January 2016 the three linked congregations of Ayton & Burnmouth, Foulden &
 **Lay Moderator – Susan Patterson**
 
 Phone: [01289 386394](tel:00441289386394) or [07976 902981](tel:00447976902981)  
-Email: <aspatterson1960@gmail.com>  
+Email: <aspatterson1960@gmail.com>
 
 **Session Clerk – Vacant**
 
@@ -30,11 +26,11 @@ Phone: [01890 761720](tel:00441890761720)
 
 ## Church meeting times
 
-* 1st Sunday of each month – Foulden at 10:30
-* 2nd, 4th and 5th Sunday of each month – Ayton at 10:30
-* 3rd Sunday of each month – Reston at 10:30
-* There is also a weekly service on Zoom at 12:00
-* Other additional services as advertised
+- 1st Sunday of each month – Foulden at 10:30
+- 2nd, 4th and 5th Sunday of each month – Ayton at 10:30
+- 3rd Sunday of each month – Reston at 10:30
+- There is also a weekly service on Zoom at 12:00
+- Other additional services as advertised
 
 ## The Construction of the present day Ayton Church
 
@@ -46,7 +42,7 @@ Many county families and friends were also present, among whom might be speciall
 
 The foundation stone of this Church was laid on 8th September, A.D., 1864.
 
-*In the 27th year of the reign of Her Most Excellent Majesty Queen Victoria by Mrs Mitchell-Innes, of Ayton Castle, and Miss Mitchell-Innes. Minister of the Parish: The Rev. Daniel Cameron*
+_In the 27th year of the reign of Her Most Excellent Majesty Queen Victoria by Mrs Mitchell-Innes, of Ayton Castle, and Miss Mitchell-Innes. Minister of the Parish: The Rev. Daniel Cameron_
 
 After the contents of the case had been deposited in a cavity in the foundation stone, Mrs Mitchell-Innes was presented with a silver trowel with which she spread the symbols – the corn, wine and oil, over the stone.
 
@@ -80,12 +76,12 @@ The instrument superseded an American organ introduced in 1885, and was construc
 
 Among other objects of historical interest, the Church possesses:
 
-* A Communion Cup which seems to have stood in need of enlargement, as set forth in the inscription *‘This cup originally given by Magdallan Rule of Pilwalls to the Church in 1677. Renewed and enlarged in 1780.’*
-* A Communion Cup engraved *‘The Parish of Ayton, 1780.’*
-* Two Pewter Cups dated 1680 and two similar Flagons dated 1766
-* Handled Almsboxes (oak)
-* Communion Tokens (discontinued in 1876)
-* Silver Trowel in a glass case used in laying the foundation stone in 1864
-* Parchment embodying Crown Presentation to Ayton Parish Church of Rev Daniel Cameron, 27th October, 1842 with the great Seal of Scotland attached (in good condition)
+- A Communion Cup which seems to have stood in need of enlargement, as set forth in the inscription _‘This cup originally given by Magdallan Rule of Pilwalls to the Church in 1677. Renewed and enlarged in 1780.’_
+- A Communion Cup engraved _‘The Parish of Ayton, 1780.’_
+- Two Pewter Cups dated 1680 and two similar Flagons dated 1766
+- Handled Almsboxes (oak)
+- Communion Tokens (discontinued in 1876)
+- Silver Trowel in a glass case used in laying the foundation stone in 1864
+- Parchment embodying Crown Presentation to Ayton Parish Church of Rev Daniel Cameron, 27th October, 1842 with the great Seal of Scotland attached (in good condition)
 
-In September 2016 Irvine Inglis produce an interesting document – *A brief history of Ayton Church building*.
+In September 2016 Irvine Inglis produce an interesting document – _A brief history of Ayton Church building_.

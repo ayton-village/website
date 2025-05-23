@@ -25,10 +25,19 @@ collections:
       value: true
     preview_path: '{{ print "{{ slug }}" }}/'
     editor: { preview: false }
+    summary: '{{ print "{{" }}internal_name{{ print "}}" }}'
     fields:
+      - label: Internal Name
+        name: internal_name
+        widget: string
+        required: true
+        hint: Your own name for the page, only for use on the back-end. Used to identify on the list of pages and when adding to a menu. Good idea to not change this once set.
       - label: Title
         name: title
         widget: string
+      - label: URL
+        name: url
+        hint: 'What comes after {{ .Site.BaseURL }}, e.g. ‘calendar’. Leave blank to generate from the title.'
       - label: Is Page
         name: is_page
         default: true
@@ -51,49 +60,6 @@ collections:
           label: From
           hint: "Should start with a ‘/’"
         summary: '{{ print "{{from}}" }}'
-      - label: Menu placement
-        name: menu
-        widget: object
-        required: false
-        fields:
-          - label: Main menu
-            name: main
-            widget: object
-            required: false
-            fields:
-              - label: Label
-                name: name
-                widget: string
-                hint: >
-                  Alternative title to use in nav.
-                  Uses title if left blank.
-                required: false
-              - label: Weight
-                name: weight
-                widget: "number"
-                required: true
-                default: 999
-                hint: >
-                  Enter 999 to remove from menu
-          - label: Footer menu
-            name: footer
-            widget: object
-            required: false
-            fields:
-              - label: Label
-                name: name
-                widget: string
-                hint: >
-                  Alternative title to use in nav.
-                  Uses title if left blank.
-                required: false
-              - label: Weight
-                name: weight
-                widget: "number"
-                required: true
-                default: 999
-                hint: >
-                  Enter 999 to remove from menu
   {{- if not (eq .Site.Params.dir "main") }}
   - name: minutes
     label: Minutes
@@ -182,21 +148,88 @@ collections:
       - label: Menu
         name: menu
         preview_path: "/"
-        file: data/menu.yaml
+        file: {{ .Site.Params.dir }}/data/menu.yaml
         fields:
-          - label: Sites
+          - label: Main menu
             widget: list
-            name: sites
-            fields:
-              - label: Name
-                name: name
-                widget: string
-              - label: Link
-                name: link
-                widget: string
+            name: main
+            label_singular: 'menu item'
+            types:
+              - label: Page
+                name: page
+                summary: '{{ print "{{link}}" }}'
+                widget: object
+                fields:
+                  - label: Link
+                    name: link
+                    required: true
+                    widget: relation
+                    collection: pages
+                    value_field: internal_name
+                    search_fields:
+                      - internal_name
+                      - slug
+                      - title
+                  - label: Override title
+                    name: title
+                    widget: string
+                    required: false
+                    hint: 'Optional. Menu will use the title of the page by default'
+              - label: External link
+                name: external
+                summary: '{{ print "{{title}} ({{link}})" }}'
+                widget: object
+                fields:
+                  - label: Link
+                    name: link
+                    required: true
+                    widget: string
+                  - label: Title
+                    name: title
+                    widget: string
+                    required: true
+          - label: Footer
+            widget: list
+            name: footer
+            label_singular: 'menu item'
+            types:
+              - label: Page
+                name: page
+                summary: '{{ print "{{link}}" }}'
+                widget: object
+                fields:
+                  - label: Link
+                    name: link
+                    required: true
+                    widget: relation
+                    collection: pages
+                    value_field: internal_name
+                    search_fields:
+                      - internal_name
+                      - slug
+                      - title
+                  - label: Override title
+                    name: title
+                    widget: string
+                    required: false
+                    hint: 'Optional. Menu will use the title of the page by default'
+              - label: External link
+                name: external
+                summary: '{{ print "{{title}} ({{link}})" }}'
+                widget: object
+                fields:
+                  - label: Link
+                    name: link
+                    required: true
+                    widget: string
+                  - label: Title
+                    name: title
+                    widget: string
+                    required: true
           - label: Icons
             widget: list
             name: icons
+            label_singular: 'menu item'
             fields:
               - label: Title
                 name: title

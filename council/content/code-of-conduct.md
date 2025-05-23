@@ -1,11 +1,6 @@
 ---
 title: Code of Conduct for Community Councillors
-menu:
-  main:
-    weight: 999
-  footer:
-    name: Code of Conduct
-    weight: 80
+internal_name: Code of Conduct
 is_page: true
 toc: true
 ---
@@ -152,33 +147,33 @@ criteria:
 1. That members of the public might reasonably think the private interest could influence them; and
 2. That members of the public might reasonably think the private interest creates a real danger of bias on the part of the Community Councillor because it affects them or someone connected with them, more than any other person or more than the generality of other persons affected by the matter.
 
-13.3 In the case of a private interest that meets neither of these
-criteria, there may be no reason to declare the interest or to
-take any further action.
+   13.3 In the case of a private interest that meets neither of these
+   criteria, there may be no reason to declare the interest or to
+   take any further action.
 
-13.4 In the case of a private interest which meets criteria 1,
-Community Councillors should declare their interest but they
-may decide to participate in the discussion and decision making
-on the matter.
+   13.4 In the case of a private interest which meets criteria 1,
+   Community Councillors should declare their interest but they
+   may decide to participate in the discussion and decision making
+   on the matter.
 
-13.5 In the case of a private interest which meets criteria 2,
-Community Councillors should declare their interest and
-withdraw from the discussion and decision making on the
-matter.
+   13.5 In the case of a private interest which meets criteria 2,
+   Community Councillors should declare their interest and
+   withdraw from the discussion and decision making on the
+   matter.
 
-13.6 In the case of a private interest which meets both criteria 1 & 2
-and if this private interest is of a continuing nature, it may be
-that it would cause a Community Councillor to withdraw from
-the consideration of business on such a frequent basis that they
-would be of little value to their Community Council. In this case,
-they should not seek to serve as a Community Councillor.
+   13.6 In the case of a private interest which meets both criteria 1 & 2
+   and if this private interest is of a continuing nature, it may be
+   that it would cause a Community Councillor to withdraw from
+   the consideration of business on such a frequent basis that they
+   would be of little value to their Community Council. In this case,
+   they should not seek to serve as a Community Councillor.
 
-13.7 Private financial interests may be more likely to be of a nature
-that meet the above criteria however private non-financial
-interests may also meet the criteria. The fundamental principle
-to bear in mind is that Community Councillors should not do
-anything that they cannot justify to the public in terms of this
-code.
+   13.7 Private financial interests may be more likely to be of a nature
+   that meet the above criteria however private non-financial
+   interests may also meet the criteria. The fundamental principle
+   to bear in mind is that Community Councillors should not do
+   anything that they cannot justify to the public in terms of this
+   code.
 
 ## 14. Respect
 

@@ -1,12 +1,9 @@
 ---
 title: History
+internal_name: History
 is_page: true
-menu:
-  main:
-    weight: 60
-  footer:
-    weight: 999
 ---
+
 The hall was built as a soup kitchen in Victorian times and later acquired by the Church of Scotland, when it became known as the Church Hall or the Mission Hall. Up to the late 1970s it was used along with the much larger Volunteer Hall in what is now the Old Town. The Volunteer Hall was sold and demolished to make way for new housing in the 1970s.
 
 At the same time, the new Ayton Primary School was built which included a large hall to be used as a community hall. The school hall was used well for 20 years or so but greatly increased hire charges have meant it is rarely used by the community now.
@@ -25,7 +22,6 @@ In those three years the Association became a Scottish Charity (SC 037032) and s
 The first ideas for the hall involved building a larger one on ground at the rear and incorporating the existing building, but after an application from the Lottery Fund was rejected it was decided it would be more realistic to modernise the building within the existing walls and this is indeed what happened.
 
 In May 2013 the Association was granted SCIO status by OSCR, the Scottish Charities Register. SCIO stands for Scottish Charitable Incorporated Corporation. We are now known as **Ayton Community Hall Association SCIO**. Under this system the Association has members and it is from this membership that a number of Trustees are elected annually to run the hall. Under the rules set out in the constitution there can be between 4 and 11 Trustees.
-
 
 A second hand bookshop operated from 2006 to 2009 by ACHA, raising nearly £2000 to help the hall refurbishment. It was open on Saturday mornings and was well supported for a while. The area where the bookshop was in the old back of the hall is where the new kitchen is. In times past this small room was the Berwickshire county library branch in the village. It was always damp!
 

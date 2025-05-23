@@ -1,11 +1,6 @@
 ---
 title: Constitution of Ayton Community Council
-menu:
-  main:
-    weight: 999
-  footer:
-    name: Constitution
-    weight: 70
+internal_name: Constitution
 is_page: true
 toc: true
 ---
@@ -66,13 +61,13 @@ shall be elected members of the Council.
 6.1 A casual vacancy shall be deemed to arise in any of the following circumstances:
 
 1. on the day when a member ceases to be entered in the Electoral Roll for the area
-covered by the Council;
+   covered by the Council;
 2. on the expiry of a period of six calendar months during which a member has failed
-to attend a meeting of the Council, or of any Committee or other body constituted by
-the Council, unless leave of absence has been granted or other reason accepted by the
-Council; or
+   to attend a meeting of the Council, or of any Committee or other body constituted by
+   the Council, unless leave of absence has been granted or other reason accepted by the
+   Council; or
 3. upon the receipt by the Secretary to the Council of a written notice of resignation
-from a member.
+   from a member.
 
 ## 7. Term of Office
 
@@ -303,10 +298,10 @@ require approval of both:
 1. a majority of Members of the Council voting at a Council Meeting; and
 2. a two-thirds majority of residents of the Community Area entitled to vote, being present and voting at an Annual General Meeting of the Council or a Special Meeting or an Extraordinary General Meeting convened for considering the approval of such alteration.
 
-18.3 Notice of any Special Meeting or Extraordinary Public Meeting at which a proposal to
-change this Constitution of the Council is to be considered shall be given at least
-fourteen days prior to the date of the Meeting and such notice shall detail the wording
-of the proposed alteration(s).
+   18.3 Notice of any Special Meeting or Extraordinary Public Meeting at which a proposal to
+   change this Constitution of the Council is to be considered shall be given at least
+   fourteen days prior to the date of the Meeting and such notice shall detail the wording
+   of the proposed alteration(s).
 
 ## 19. Adoption of Constitution
 

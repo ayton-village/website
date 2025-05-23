@@ -1,14 +1,10 @@
 ---
 title: Home
+internal_name: Home page
 is_page: true
 redirects:
   - /about-us/
   - /welcome/
-menu:
-  main:
-    weight: -1
-  footer:
-    weight: 999
 ---
 
 Ayton is an attractive village in the East Berwickshire part of the Scottish Borders, with a population of around 500. The main A1 road ran through the village until the 1980s when a bypass road was built.

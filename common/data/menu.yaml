@@ -1,4 +1,5 @@
 ---
+main: []
 sites:
   - name: Ayton, Berwickshire
     address: https://ayton-village.org

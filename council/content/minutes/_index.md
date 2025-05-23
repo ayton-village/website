@@ -1,7 +1,5 @@
 ---
 title: Minutes
+internal_name: Minutes list
 is_page: true
-menu:
-  main:
-    weight: 10
 ---

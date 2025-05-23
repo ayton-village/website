@@ -1,11 +1,7 @@
 ---
 title: Standing Orders
-menu:
-  main:
-    weight: 999
-  footer:
-    weight: 90
 is_page: true
+internal_name: Standing orders
 toc: true
 ---
 
@@ -77,6 +73,7 @@ follows:
 The order of business at every extraordinary general meeting of the Community Council shall
 
 be as follows:
+
 1. Recording of membership present and apologies received.
 1. Business for debate, as described in the calling notice for the special meeting.
 1. Chairperson to close meeting.

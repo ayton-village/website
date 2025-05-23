@@ -14,7 +14,6 @@ body {
   }
 }
 
-
 a {
   color: $accentColor;
 }
@@ -52,6 +51,20 @@ h6 {
   font-weight: normal;
 }
 
+.site-logo {
+  padding-right: 1em;
+  a {
+    text-decoration: none;
+    transition: $transition color;
+    &:not(:hover) {
+      color: inherit;
+    }
+  }
+  img {
+    height: 4em;
+    width: auto;
+  }
+}
 .site-title {
   padding: 1em 1em 1em 0;
   border-right: 0.3em solid $bodyColor;
@@ -101,7 +114,8 @@ hr {
 .header-footer-wrapper {
   background-color: $backgroundColor;
   padding: 0;
-  padding: env(safe-area-inset-top) env(safe-area-inset-right) 0 env(safe-area-inset-left);
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) 0
+    env(safe-area-inset-left);
 }
 
 .ends-comma {
