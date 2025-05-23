@@ -1,0 +1,18 @@
+main:
+  - type: page
+    link: Home page
+    title: Home
+  - type: page
+    link: Photo gallery
+    title: Photos
+sites: []
+icons:
+  - icon: facebook
+    title: Facebook
+    link: https://www.facebook.com/Aytongardens
+  - icon: instagram
+    title: Instagram
+    link: https://www.instagram.com/aytongardens/
+  - icon: envelope
+    title: Email
+    link: mailto:aytongardens@outlook.com
