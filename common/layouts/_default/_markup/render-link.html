@@ -1,4 +1,5 @@
 {{- $destination := strings.TrimPrefix site.BaseURL .Destination }}
+{{- $destination = replaceRE "^/?[a-z]+/assets/assets/" "assets/" $destination -}}
 {{- $title := .Title }}
 {{- with (site.GetPage $destination) }}
 {{- if not $title }}{{$title = .Title }}{{ end }}
