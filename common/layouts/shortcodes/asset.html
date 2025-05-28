@@ -1,0 +1,5 @@
+{{- $resource := resources.GetMatch (.Get "src") }}
+<a href="{{ ($resource | resources.Fingerprint "md5").RelPermalink }}">
+  {{- $.Page.RenderString (dict "display" "inline") .Inner -}}
+</a>
+{{- print "" -}}
