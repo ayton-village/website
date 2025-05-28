@@ -6,6 +6,9 @@ main:
     link: Photo gallery
     title: Photos
 sites: []
+footer:
+  - type: page
+    link: Privacy policy
 icons:
   - icon: facebook
     title: Facebook
