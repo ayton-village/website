@@ -38,6 +38,7 @@ collections:
       - label: URL
         name: url
         hint: 'What comes after {{ .Site.BaseURL }}, e.g. ‘calendar’. Leave blank to generate from the title.'
+        required: false
       - label: Is Page
         name: is_page
         default: true
@@ -157,7 +158,8 @@ collections:
       - label: URL
         name: slug
         widget: string
-        hint: What comes after ‘/news/’, e.g. ‘christmas-2025’
+        hint: What comes after ‘/news/’, e.g. ‘christmas-2025’. Leave blank to auto-generate
+        required: false
       - label: Date
         name: publishDate
         widget: datetime
