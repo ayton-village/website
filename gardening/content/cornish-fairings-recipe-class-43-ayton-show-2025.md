@@ -7,7 +7,6 @@ toc: false
 ---
 [← Back to show details](/ayton-show-2025)
 
-{{<aside side="left">}}
 ## Ingredients
 
 * 100 g plain flour
@@ -18,7 +17,6 @@ toc: false
 * 50 g softened butter
 * 50 g caster sugar
 * 75 g golden syrup
-{{</aside>}}
 
 ## Steps
 
