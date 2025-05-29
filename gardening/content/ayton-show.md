@@ -8,3 +8,5 @@ toc: false
 ### [Enter now](/ayton-show-2025/enter)
 
 Ayton Show is back for 2025 …
+
+[Fairings recipe](/ayton-show-2025/fairings-recipe)
