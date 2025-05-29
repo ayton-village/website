@@ -10,6 +10,6 @@
 {{- end -}}
 {{- end -}}
 <a href="{{ $destination | safeURL }}" {{- with $title}} title="{{ . }}" {{- end }}{{- if or (strings.HasPrefix
-  .Destination "http" ) (strings.HasSuffix .Destination ".pdf" ) }} target="_blank" rel="noopener" {{- end }}>{{- .Text
+  .Destination "http" ) (or (strings.HasSuffix .Destination ".docx") (strings.HasSuffix .Destination ".pdf")) }} target="_blank" rel="noopener" {{- end }}>{{- .Text
   | safeHTML -}}</a>
 {{- print "" -}}

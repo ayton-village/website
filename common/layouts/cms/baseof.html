@@ -54,6 +54,35 @@ end -}}
         toBlock: asideToHtml,
         toPreview: asideToHtml
       });
+      var gFormToHtml = function (obj) {
+        var height = obj.height ? ' height="' + obj.height + '"' : '';
+        return '{{ print "{{" }}<googleform id="' + obj.id + '"' + height + '>{{ print "}}" }}';
+      };
+      CMS.registerEditorComponent({
+        id: 'googleform',
+        label: 'Google Form',
+        fields: [{
+          name: 'id',
+          label: 'Form ID',
+          widget: 'string',
+          required: true,
+        }, {
+          name: 'height',
+          label: 'Height',
+          widget: 'number',
+          required: false,
+          value_type: 'int',
+        }],
+        pattern: /{{ print "{{" }}<googleform id="([^"]*)"( height="([0-9]*)")?>{{ print "}}" }}/,
+        fromBlock: function (match) {
+          return {
+            id: match[1],
+            height: match[3]
+          };
+        },
+        toBlock: gFormToHtml,
+        toPreview: gFormToHtml
+      });
     }
   </script>
 </head>

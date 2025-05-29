@@ -88,3 +88,11 @@ a.linked-file {
   @include boxed;
   display: inline-block;
 }
+
+iframe.google-form {
+  width: 100%;
+}
+iframe.google-form:not([height]) {
+  height: 800px;
+  background-color: $boxColor;
+}
