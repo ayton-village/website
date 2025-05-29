@@ -5,6 +5,8 @@ url: ayton-show-2025/fairings-recipe
 is_page: true
 toc: false
 ---
+[← Back to show details](/ayton-show-2025)
+
 ## Ingredients
 
 * 100 g plain flour
