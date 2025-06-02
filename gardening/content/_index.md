@@ -3,8 +3,6 @@ internal_name: Home page
 title: Ayton Gardening Society
 is_page: true
 ---
-![A gentleman with arms wide showing the size of the giant marrow he has grown!](/assets/uncle-simon-by-jp.jpg)
-
 ## Welcome to the Ayton Gardening Society!
 
 The prime purpose of the Society is to organise and run the Ayton Show, including ancillary fundraising for this (Such as with our coffee mornings and cake and plant sales.)
