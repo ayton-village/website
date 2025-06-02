@@ -11,14 +11,14 @@ toc: false
 
 ###### Saturday 6th September 2025, at Ayton Primary School and field, with teas at the Ayton Bowling Club
 
-###### Welcome, we hope you enjoy this year’s show, we hope it is as great as our 3
+![Caroline, Chair of the Ayton Gardening Society, standing in front of the table displaying the floral entries](/assets/img-20230905-wa0007~2-1-.jpg)
 
-previous years and we wish to thank all those who have entered or volunteered and helped to make it the success it has been.
-We are keen to understand how we could make the show better and would
-love to hear from anyone who would like to get involved in the planning or
-running of the show – please talk to any of the committee members or
+###### Welcome, we hope you enjoy this year’s show!
+
+###### We hope it is as great as our 3 previous years, and we wish to thank all those who have entered or volunteered and helped to make it the success it has been. We are keen to understand how we could make the show better and would love to hear from anyone who would like to get involved in the planning or running of the show – please talk to any of the committee members or
 volunteers at the show. You can also contact us via social media or email.
-We were keen to keep the schedule free and have done so for another year.
+
+###### We were keen to keep the schedule free of charge and have done so for another year.
 Please send your entry forms in as soon as possible using the form in the
 schedule or online, and please be ready to pay for your £2 entry when you
 turn up on the day to stage your entries – cash payment please.
@@ -39,4 +39,16 @@ Download Children's Pictures for Collage
 
 View full schedule below
 
-[Fairings recipe](/ayton-show-2025/fairings-recipe)
+![Collage entries in the Chidren's section - frogs and ladybirds displayed on a round red table](/assets/pxl_20240907_110159943.jpg)
+
+![Cakes and traybakes entered in the baking section, with certificates awarded ](/assets/pxl_20240907_121101251.jpg)
+
+![Quilted placemats entered into the craft section, with certificates awarded](/assets/pxl_20240907_121130140.jpg)
+
+[Fairings recipe for the Home Produce section (Class 43)](/ayton-show-2025/fairings-recipe) 
+
+
+
+2025 Schedule
+
+[](/ayton-show-2025/fairings-recipe)
