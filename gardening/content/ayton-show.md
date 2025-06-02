@@ -29,7 +29,7 @@ The Committee of the Ayton Gardening Society
 
 As last year, we would ask that you send in your entry forms as usual either using the form in the schedule or [online here](https://gardening.ayton-village.org/ayton-show-2025/enter/), but you do not need to pay anything until the big day.
 
-Please get your entry forms in early if possible (deadline is Friday 29th August) and bring along your £2 entry fee in **cash**! We are looking forward to seeing you on the day!​
+Please get your entry forms in early if possible (deadline is Friday 29th August) and bring along your £2 entry fee in **cash on the day**! We are looking forward to seeing you!​
 
 (If you have trouble downloading, you can also ask for the PDF file to be emailed to you, or you can see the entire schedule below, and the [entry form here](https://gardening.ayton-village.org/ayton-show-2025/enter/))
 
