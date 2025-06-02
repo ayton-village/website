@@ -43,14 +43,7 @@ Contact Kenny Combe on [01890 781443](tel:00441890781443).
 
 ## Ayton Scottish Women’s Institute
 
-[**Upcoming events**](/calendar#swi-event-calendar)
-
 The Scottish Women’s Institute (SWI) meets monthly on the fourth Wednesday of the month at 7:15pm in Ayton Community Hall. Membership £25.00 or £4.00 per visit.
-
-**President:** Isabel Kellie, 2 Summerhill Park, Beanburn, Ayton ([01890 781738](tel:00441890781738)/[07812 908629](tel:00447812908629))  
-**Press secretary:** Sarah Woodbury, The Retreat, Beanburn, Ayton ([01890 781941](tel:00441890781941)/[07947 490623](tel:00447947490623))  
-**Secretary, treasurer:** Jen Logan, Alemill, Eyemouth [07799 621981](tel:00447799621981)  
-**Committee:** Wendy Carter ([07745 107909](tel:00447745107909)), Judith Hamilton ([07872065017](tel:00447872065017)).
 
 ## Ayton & District Bowling Club
 
