@@ -11,6 +11,9 @@ main:
   - type: page
     link: Ayton Show 2025 Entry Form
     title: Entry Form
+  - type: page
+    link: Links
+    title: Other organisations
 sites: []
 footer:
   - type: page
