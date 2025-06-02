@@ -12,6 +12,7 @@ toc: false
 ###### Saturday 6th September 2025, at Ayton Primary School and field, with teas at the Ayton Bowling Club
 
 ###### Welcome, we hope you enjoy this year’s show, we hope it is as great as our 3
+
 previous years and we wish to thank all those who have entered or volunteered and helped to make it the success it has been.
 We are keen to understand how we could make the show better and would
 love to hear from anyone who would like to get involved in the planning or
@@ -32,18 +33,10 @@ Please get your entry forms in early if possible (deadline is Friday 29th August
 
 (If you have trouble downloading, you can also ask for the PDF file to be emailed to you, or you can see the entire schedule below, and the [entry form here](https://gardening.ayton-village.org/ayton-show-2025/enter/))
 
-Download PDF of Schedule
+[Download PDF of Schedule](gardening/assets/assets/aytonshowschedule2025screen.pdf)
 
 Download Children's Pictures for Collage
 
-
-
 View full schedule below
-
-###### 
-
-
-
-
 
 [Fairings recipe](/ayton-show-2025/fairings-recipe)
