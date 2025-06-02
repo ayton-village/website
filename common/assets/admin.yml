@@ -24,7 +24,6 @@ collections:
       field: is_page
       value: true
     preview_path: '{{ print "{{ slug }}" }}/'
-    editor: { preview: false }
     summary: '{{ print "{{" }}internal_name{{ print "}}" }}'
     fields:
       - label: Internal Name
@@ -32,13 +31,13 @@ collections:
         widget: string
         required: true
         hint: Your own name for the page, only for use on the back-end. Used to identify on the list of pages and when adding to a menu. Good idea to not change this once set.
-      - label: Title
-        name: title
-        widget: string
       - label: URL
         name: url
         hint: 'What comes after {{ .Site.BaseURL }}, e.g. ‘calendar’. Leave blank to generate from the title.'
         required: false
+      - label: Title
+        name: title
+        widget: string
       - label: Is Page
         name: is_page
         default: true
@@ -72,7 +71,6 @@ collections:
       field: type
       value: minutes
     preview_path: 'minutes/{{ print "{{ slug }}" }}/'
-    editor: { preview: false }
     media_folder: /{{ .Site.Params.dir }}/assets/minutes
     public_folder: /minutes
     fields:
@@ -114,7 +112,6 @@ collections:
       field: type
       value: accounts
     preview_path: 'accounts/{{ print "{{ slug }}" }}/'
-    editor: { preview: false }
     media_folder: /{{ .Site.Params.dir }}/assets/accounts
     public_folder: /accounts
     fields:
@@ -148,7 +145,6 @@ collections:
     create: true
     format: frontmatter
     preview_path: 'news/{{ print "{{ slug }}" }}/'
-    editor: { preview: false }
     media_folder: {{ .Site.Params.dir }}/assets/news
     public_folder: /news
     fields:

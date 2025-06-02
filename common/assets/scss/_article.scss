@@ -1,4 +1,5 @@
-main {
+main,
+div.frame-content {
   @include wrapper;
   padding: 1em;
 
