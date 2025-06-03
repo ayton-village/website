@@ -11,13 +11,15 @@ main:
   - type: page
     link: Ayton Show 2025 Entry Form
     title: Entry Form
-  - type: page
-    link: Links
-    title: Other organisations
-sites: []
+sites:
+  - name: Ayton, Berwickshire
+    link: https://ayton-village.org
 footer:
   - type: page
     link: Privacy policy
+  - type: page
+    link: Links
+    title: Other Organisations in Ayton
 icons:
   - icon: facebook
     title: Facebook
