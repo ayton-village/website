@@ -1,11 +1,10 @@
 ---
 internal_name: Ayton Show 2025
-url: ayton-show-2025
 title: Ayton Show
+url: ayton-show-2025
 is_page: true
 toc: false
 ---
-
 {{<aside side="right">}}
 [![Front cover of Booklet](/assets/aytonshow2025frontcover.png)](/assets/aytonshowschedule2025screen.pdf)
 [Download PDF of Schedule](/assets/aytonshowschedule2025screen.pdf)
@@ -31,10 +30,10 @@ turn up on the day to stage your entries – cash payment please.
 We really look forward to seeing you at the show. Have fun getting your
 entries ready!
 
-– The Committee of the Ayton Gardening Society  
-_[aytongardens@outlook.com](mailto:aytongardens@outlook.com)_
+– The Committee of the Ayton Gardening Society\
+*[aytongardens@outlook.com](mailto:aytongardens@outlook.com)*
 
----
+- - -
 
 As last year, we would ask that you send in your entry forms as usual either using the form in the schedule or [online here](/ayton-show-2025/enter), but you do not need to pay anything until the big day.
 
@@ -42,7 +41,7 @@ Please get your entry forms in early if possible (deadline is Friday 29th August
 
 (If you have trouble downloading, you can also ask for the PDF file to be emailed to you, or you can see the entire schedule below, and the [entry form here](/ayton-show-2025/enter))
 
-Download Children's Pictures for Collage
+Download Children's Pictures for Collage - Snail or Whale
 
 View full schedule below
 
