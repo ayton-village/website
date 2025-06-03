@@ -1,0 +1,9 @@
+<div class="gallery columns-{{ .Get "columns" | default "3" }}">
+  {{ $pictures := unmarshal (replace (.Get "pictures") "&quot;" "\"") -}}
+  {{- range $pictures }}
+    {{ $picture := resources.Get .image | resources.Fingerprint "md5" -}}
+    <a href="{{ $picture.RelPermalink }}" target="gallery-popup" title="{{ .alt }}">
+      <img src="{{ $picture.RelPermalink }}" alt="{{ .alt }}" title="{{ .alt }}" />
+    </a>
+  {{ end }}
+</div>

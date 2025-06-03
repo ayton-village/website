@@ -5,6 +5,7 @@ title: Ayton Show
 is_page: true
 toc: false
 ---
+
 ### [Enter now](/ayton-show-2025/enter)
 
 ### Ayton Show is back for 2025 …
@@ -25,9 +26,9 @@ volunteers at the show. You can also contact us via social media or email.
 > schedule or online, and please be ready to pay for your £2 entry when you
 > turn up on the day to stage your entries – cash payment please.
 > We really look forward to seeing you at the show. Have fun getting your
-> entries ready!  
-> – The Committee of the Ayton Gardening Society  
-> *[aytongardens@outlook.com](mailto:aytongardens@outlook.com)*
+> entries ready!\
+> – The Committee of the Ayton Gardening Society\
+> _[aytongardens@outlook.com](mailto:aytongardens@outlook.com)_
 
 As last year, we would ask that you send in your entry forms as usual either using the form in the schedule or [online here](/ayton-show-2025/enter), but you do not need to pay anything until the big day.
 
@@ -41,11 +42,7 @@ Download Children's Pictures for Collage
 
 View full schedule below
 
-![Collage entries in the Chidren's section - frogs and ladybirds displayed on a round red table](/assets/pxl_20240907_110159943.jpg)
-
-![Cakes and traybakes entered in the baking section, with certificates awarded ](/assets/pxl_20240907_121101251.jpg)
-
-![Quilted placemats entered into the craft section, with certificates awarded](/assets/pxl_20240907_121130140.jpg)
+{{<gallery columns="3" pictures="[{&quot;image&quot;:&quot;/assets/pxl_20240907_110159943.jpg&quot;,&quot;alt&quot;:&quot;Collage entries in the Children’s section — frogs and ladybirds displayed on a round table&quot;},{&quot;image&quot;:&quot;/assets/pxl_20240907_121101251.jpg&quot;,&quot;alt&quot;:&quot;Cakes and traybake entered in the baking section, with certificates awarded&quot;},{&quot;image&quot;:&quot;/assets/pxl_20240907_121130140.jpg&quot;,&quot;alt&quot;:&quot;Quilted placemats entered into the craft section, with certificates awarded&quot;}]">}}
 
 [Fairings recipe for the Home Produce section (Class 43)](/ayton-show-2025/fairings-recipe)
 

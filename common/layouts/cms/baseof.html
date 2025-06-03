@@ -1,97 +1,133 @@
 <!doctype html>
 <html>
+  {{/* The following line ensures that all files in assets/i/ are copied to
+  public/i/ on build */}} {{/* This is important mainly for previewing images in
+  the CMS */}} {{- $imageLinks := slice }}{{ range resources.ByType "image" }}{{
+  $imageLinks = append .RelPermalink $imageLinks }}{{ end -}} {{- $config :=
+  (resources.ExecuteAsTemplate "admin/config.yml" . (resources.Get
+  "admin.yml")).Permalink -}}
 
-{{/* The following line ensures that all files in assets/i/ are copied to public/i/ on build */}}
-{{/* This is important mainly for previewing images in the CMS */}}
-{{- $imageLinks := slice }}{{ range resources.ByType "image" }}{{ $imageLinks = append .RelPermalink $imageLinks }}{{
-end -}}
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+    <title>Content Manager for {{ .Site.Title }}</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <style>
+      div[data-slate-editor="true"]
+        img[data-slate-object="inline"][src$="svg"] {
+        height: 1.2em;
+        width: auto;
+      }
+    </style>
+    <script>
+      function setupEditorComponents() {
+        var asideToHtml = function (obj) {
+          return '{{ print "{{" }}<aside side="' + obj.side + '">{{ print "}}" }}\n' + obj.content + '\n{{ print "{{" }}</aside>{{ print "}}" }}';
+        };
+        CMS.registerEditorComponent({
+          id: 'aside',
+          label: 'Aside',
+          fields: [{
+            name: 'side',
+            label: 'Side',
+            widget: 'select',
+            options: [
+              {label: 'Left', value: 'left'},
+              {label: 'Centre', value: 'center'},
+              {label: 'Right', value: 'right'}
+            ],
+            default: 'right'
+          }, {
+            name: 'content',
+            label: 'Content',
+            widget: 'markdown'
+          }],
+          pattern: /{{ print "{{" }}<aside side="(left|center|right)">{{ print "}}" }}\n([\s\S]*?)\n{{ print "{{" }}<\/aside>{{ print "}}" }}/,
+          fromBlock: function (match) {
+            return {
+              side: match[1],
+              content: match[2]
+            };
+          },
+          toBlock: asideToHtml,
+          toPreview: asideToHtml
+        });
+        var galleryToHtml = function (obj) {
+          return '{{ print "{{" }}<gallery columns="' + obj.columns + '" pictures="' + JSON.stringify(obj.pictures).replaceAll("\"", "&quot;") + '">{{ print "}}" }}';
+        };
+        CMS.registerEditorComponent({
+          id: 'gallery',
+          label: 'Gallery',
+          fields: [{
+            name: 'columns',
+            label: 'Columns',
+            widget: 'number',
+            value_type: 'integer',
+            min: 1,
+            max: 4,
+            required: true,
+            default: 3,
+          }, {
+            name: 'pictures',
+            label: 'Pictures',
+            widget: 'list',
+            required: true,
+            fields: [
+              { label: 'Image', name: 'image', widget: 'image' },
+              { label: 'Alt text', name: 'alt', widget: 'string' },
+            ],
+          }],
+          pattern: /{{ print "{{" }}<gallery columns="([1234])" pictures="(.*?)">{{ print "}}" }}/,
+          fromBlock: function (match) {
+            return {
+              columns: Number(match[1]),
+              pictures: JSON.parse(match[2].replaceAll("&quot;","\"")),
+            };
+          },
+          toBlock: galleryToHtml,
+          toPreview: galleryToHtml
+        });
+        var gFormToHtml = function (obj) {
+          var height = obj.height ? ' height="' + obj.height + '"' : '';
+          return '{{ print "{{" }}<googleform id="' + obj.id + '"' + height + '>{{ print "}}" }}';
+        };
+        CMS.registerEditorComponent({
+          id: 'googleform',
+          label: 'Google Form',
+          fields: [{
+            name: 'id',
+            label: 'Form ID',
+            widget: 'string',
+            required: true,
+          }, {
+            name: 'height',
+            label: 'Height',
+            widget: 'number',
+            required: false,
+            value_type: 'int',
+          }],
+          pattern: /{{ print "{{" }}<googleform id="([^"]*)"( height="([0-9]*)")?>{{ print "}}" }}/,
+          fromBlock: function (match) {
+            return {
+              id: match[1],
+              height: match[3]
+            };
+          },
+          toBlock: gFormToHtml,
+          toPreview: gFormToHtml
+        });
+        {{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" false) -}}
+        {{- $style := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | css.Sass $options | resources.Fingerprint "md5" -}}
+        CMS.registerPreviewStyle("{{ $style.RelPermalink }}");
+      }
+    </script>
+  </head>
 
-{{- $config := (resources.ExecuteAsTemplate "admin/config.yml" . (resources.Get "admin.yml")).Permalink -}}
-
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="canonical" href="{{ .Permalink }}">
-  <title>Content Manager for {{ .Site.Title }}</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  <style>
-    div[data-slate-editor=true] img[data-slate-object="inline"][src$="svg"] {
-      height: 1.2em;
-      width: auto;
-    }
-
-  </style>
-  <script>
-    function setupEditorComponents() {
-      var asideToHtml = function (obj) {
-        return '{{ print "{{" }}<aside side="' + obj.side + '">{{ print "}}" }}\n' + obj.content + '\n{{ print "{{" }}</aside>{{ print "}}" }}';
-      };
-      CMS.registerEditorComponent({
-        id: 'aside',
-        label: 'Aside',
-        fields: [{
-          name: 'side',
-          label: 'Side',
-          widget: 'select',
-          options: [
-            {label: 'Left', value: 'left'},
-            {label: 'Centre', value: 'center'},
-            {label: 'Right', value: 'right'}
-          ],
-          default: 'right'
-        }, {
-          name: 'content',
-          label: 'Content',
-          widget: 'markdown'
-        }],
-        pattern: /{{ print "{{" }}<aside side="(left|center|right)">{{ print "}}" }}\n([\s\S]*?)\n{{ print "{{" }}<\/aside>{{ print "}}" }}/,
-        fromBlock: function (match) {
-          return {
-            side: match[1],
-            content: match[2]
-          };
-        },
-        toBlock: asideToHtml,
-        toPreview: asideToHtml
-      });
-      var gFormToHtml = function (obj) {
-        var height = obj.height ? ' height="' + obj.height + '"' : '';
-        return '{{ print "{{" }}<googleform id="' + obj.id + '"' + height + '>{{ print "}}" }}';
-      };
-      CMS.registerEditorComponent({
-        id: 'googleform',
-        label: 'Google Form',
-        fields: [{
-          name: 'id',
-          label: 'Form ID',
-          widget: 'string',
-          required: true,
-        }, {
-          name: 'height',
-          label: 'Height',
-          widget: 'number',
-          required: false,
-          value_type: 'int',
-        }],
-        pattern: /{{ print "{{" }}<googleform id="([^"]*)"( height="([0-9]*)")?>{{ print "}}" }}/,
-        fromBlock: function (match) {
-          return {
-            id: match[1],
-            height: match[3]
-          };
-        },
-        toBlock: gFormToHtml,
-        toPreview: gFormToHtml
-      });
-      {{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" false) -}}
-      {{- $style := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | css.Sass $options | resources.Fingerprint "md5" -}}
-      CMS.registerPreviewStyle("{{ $style.RelPermalink }}");
-    }
-  </script>
-</head>
-
-<body>
-  <script onload="setupEditorComponents()" src="https://unpkg.com/decap-cms@^3.0.12/dist/decap-cms.js"></script>
-</body>
-
+  <body>
+    <script
+      onload="setupEditorComponents()"
+      src="https://unpkg.com/decap-cms@^3.0.12/dist/decap-cms.js"
+    ></script>
+  </body>
 </html>
