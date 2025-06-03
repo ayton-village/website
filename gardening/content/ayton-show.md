@@ -197,13 +197,13 @@ Craft
 75 A birthday card (any medium)
 76 A christmas tree decoration (any medium)
 77 A lap quilt using scrap fabric (lap quilts are designed to be used when
-
-
 sitting, are smaller than traditional quilts and should measure from
 90 x 75cm to 150 x 125cm)
 Please note the lap quilts are to be donated to
 Saltgreens Residential Care Home, Eyemouth
 78 An item in any craft not specified above
+
+
 Children’s Open Section
 (Open to all children under 18 years. Please display age on entry form.)
 79 Collage or applique on the printed picture of a snail or a whale
