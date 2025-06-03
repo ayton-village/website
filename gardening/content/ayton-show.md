@@ -41,7 +41,7 @@ Please get your entry forms in early if possible (deadline is Friday 29th August
 
 (If you have trouble downloading, you can also ask for the PDF file to be emailed to you, or you can see the entire schedule below, and the [entry form here](/ayton-show-2025/enter))
 
-Download Children's Pictures for Collage - Snail or Whale
+Download Children's Pictures for Collage - [Snail](gardening/assets/assets/snail-picture.pdf) or Whale
 
 View full schedule below
 
