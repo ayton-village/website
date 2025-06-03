@@ -6,7 +6,12 @@ is_page: true
 toc: false
 ---
 
-### [Enter now](/ayton-show-2025/enter)
+{{<aside side="right">}}
+[![Front cover of Booklet](/assets/aytonshow2025frontcover.png)](/assets/aytonshowschedule2025screen.pdf)
+[Download PDF of Schedule](/assets/aytonshowschedule2025screen.pdf)
+{{</aside>}}
+
+## [Enter now](/ayton-show-2025/enter)
 
 ### Ayton Show is back for 2025 …
 
@@ -36,8 +41,6 @@ As last year, we would ask that you send in your entry forms as usual either usi
 Please get your entry forms in early if possible (deadline is Friday 29th August) and bring along your £2 entry fee in **cash on the day**! We are looking forward to seeing you!​
 
 (If you have trouble downloading, you can also ask for the PDF file to be emailed to you, or you can see the entire schedule below, and the [entry form here](/ayton-show-2025/enter))
-
-[Download PDF of Schedule](/assets/aytonshowschedule2025screen.pdf)
 
 Download Children's Pictures for Collage
 
