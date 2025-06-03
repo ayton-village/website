@@ -1,15 +1,28 @@
-{{- $destination := strings.TrimPrefix site.BaseURL .Destination }}
-{{- $destination = replaceRE "^/?[a-z]+/assets/assets/" "assets/" $destination -}}
-{{- $title := .Title }}
-{{- with (site.GetPage $destination) }}
-{{- if not $title }}{{$title = .Title }}{{ end }}
-{{- $destination = .RelPermalink }}
-{{- else }}
-{{- with resources.GetMatch $destination }}
-{{- $destination = (resources.Fingerprint "md5" .).RelPermalink }}
-{{- end -}}
-{{- end -}}
-<a href="{{ $destination | safeURL }}" {{- with $title}} title="{{ . }}" {{- end }}{{- if or (strings.HasPrefix
-  .Destination "http" ) (or (strings.HasSuffix .Destination ".docx") (strings.HasSuffix .Destination ".pdf")) }} target="_blank" rel="noopener" {{- end }}>{{- .Text
-  | safeHTML -}}</a>
+{{- $newTab := strings.HasPrefix .Destination "http" }} {{- $destination :=
+strings.TrimPrefix site.BaseURL .Destination }} {{- $destination = replaceRE
+"^/?[a-z]+/assets/assets/" "assets/" $destination -}} {{- $title := .Title }}
+{{- with (site.GetPage $destination) }} {{- $newTab = false }} {{- if not $title
+}}{{$title = .Title }}{{ end }} {{- $destination = .RelPermalink }} {{- else }}
+{{- with resources.GetMatch $destination }} {{- $newTab = true }} {{-
+$destination = (resources.Fingerprint "md5" .).RelPermalink }} {{- end -}} {{-
+end -}}
+<a
+  href="{{ $destination | safeURL }}"
+  {{-
+  with
+  $title}}
+  title="{{ . }}"
+  {{-
+  end
+  }}{{-
+  if
+  $newTab
+  }}
+  target="_blank"
+  rel="noopener"
+  {{-
+  end
+  }}
+  >{{- .Text | safeHTML -}}</a
+>
 {{- print "" -}}

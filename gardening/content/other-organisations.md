@@ -9,7 +9,7 @@ toc: true
 ## Ayton Church
 
 - [Facebook](https://www.facebook.com/people/Church-of-Scotland-Ayton-and-District-Churches/100066754323382/)
-- [More information](/church/)
+- [More information](https://ayton-village.org/church/)
 
 ## Ayton Christmas Lights Group
 
@@ -27,7 +27,7 @@ The Community Council meets on the first Tuesday of each month in Ayton Communit
 
 ## Ayton Enhancement Group
 
-The group was set up in 2011 to work to generally improve the look of the village using floral displays and other appropriate means. Contact Vic Swain on [01890 781301](tel:00441890781301) for more information, or visit [this page](/ayton-enhancement-group/).
+The group was set up in 2011 to work to generally improve the look of the village using floral displays and other appropriate means. Contact Vic Swain on [01890 781301](tel:00441890781301) for more information, or visit [this page](https://ayton-village.org/ayton-enhancement-group/).
 
 ## Ayton Evergreens Club
 
@@ -35,7 +35,7 @@ The Evergreens caters for the over 60s in the village. The club meets monthly in
 
 ## Ayton Local History Society
 
-This society was formed in 2000 and holds monthly meetings, usually with guest speakers. Contact Bill Black on [01890 781427](tel:00441890781427) for more information, or [visit this page](/ayton-local-history-society/).
+This society was formed in 2000 and holds monthly meetings, usually with guest speakers. Contact Bill Black on [01890 781427](tel:00441890781427) for more information, or [visit this page](https://ayton-village.org/ayton-local-history-society/).
 
 ## Ayton Neighbourhood Watch
 

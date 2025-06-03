@@ -16,19 +16,20 @@ toc: false
 
 ###### Welcome, we hope you enjoy this year’s show!
 
-###### We hope it is as great as our 3 previous years, and we wish to thank all those who have entered or volunteered and helped to make it the success it has been. We are keen to understand how we could make the show better and would love to hear from anyone who would like to get involved in the planning or running of the show – please talk to any of the committee members or
-
-volunteers at the show. You can also contact us via social media or email.
+We hope it is as great as our 3 previous years, and we wish to thank all those who have entered or volunteered and helped to make it the success it has been. We are keen to understand how we could make the show better and would love to hear from anyone who would like to get involved in the planning or running of the show – please talk to any of the committee members or volunteers at the show. You can also contact us via social media or email.
 
 ###### We were keen to keep the schedule free of charge and have done so for another year.
 
-> Please send your entry forms in as soon as possible using the form in the
-> schedule or online, and please be ready to pay for your £2 entry when you
-> turn up on the day to stage your entries – cash payment please.
-> We really look forward to seeing you at the show. Have fun getting your
-> entries ready!\
-> – The Committee of the Ayton Gardening Society\
-> _[aytongardens@outlook.com](mailto:aytongardens@outlook.com)_
+Please send your entry forms in as soon as possible using the form in the
+schedule or online, and please be ready to pay for your £2 entry when you
+turn up on the day to stage your entries – cash payment please.
+We really look forward to seeing you at the show. Have fun getting your
+entries ready!
+
+– The Committee of the Ayton Gardening Society  
+_[aytongardens@outlook.com](mailto:aytongardens@outlook.com)_
+
+---
 
 As last year, we would ask that you send in your entry forms as usual either using the form in the schedule or [online here](/ayton-show-2025/enter), but you do not need to pay anything until the big day.
 
@@ -47,5 +48,3 @@ View full schedule below
 [Fairings recipe for the Home Produce section (Class 43)](/ayton-show-2025/fairings-recipe)
 
 #### 2025 Schedule
-
-[](/ayton-show-2025/fairings-recipe)
