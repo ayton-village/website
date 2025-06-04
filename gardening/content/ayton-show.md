@@ -55,13 +55,13 @@ View full schedule below
 **Information for the Day**
 
 
-Certificates will be awarded for First, Second and Third in each class
-Teas will be served in the Bowling Club from 2–4.30 pm
-Norham Brass Band will play during the afternoon
-Tombola from 2 pm
-Wheelchair access is available in both the School and the Bowling Club
-Toilets are available in the School and in the Bowling Club
-Dogs are not permitted in either building
+Certificates will be awarded for First, Second and Third in each class.
+Teas will be served in the Bowling Club from 2–4.30pm.
+Norham Brass Band will play during the afternoon.
+Tombola from 2pm.
+Wheelchair access is available in both the School and the Bowling Club.
+Toilets are available in the School and in the Bowling Club.
+Dogs are not permitted in either building.
 
 **Rules**
 
