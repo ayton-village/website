@@ -53,6 +53,8 @@ View full schedule below
 
 #### 
 Information for the Day
+
+
 Certificates will be awarded for First, Second and Third in each class
 Teas will be served in the Bowling Club from 2–4.30 pm
 Norham Brass Band will play during the afternoon
@@ -61,8 +63,9 @@ Wheelchair access is available in both the School and the Bowling Club
 Toilets are available in the School and in the Bowling Club
 Dogs are not permitted in either building
 
+**Rules**
 
-Rules
+
 1. Competition entry will be £2.00/exhibitor, this will cover all show
 entries made by that person and also allows entry to and a right to
 vote at our AGM.
@@ -97,8 +100,10 @@ of the rules shall be decided by the Committee, whose decision is
 final.
 
 
-Classes
-Flowers and Floral Art
+**Classes**
+
+
+**Flowers and Floral Art**
 (All flowers and plants to be homegrown except the Floral Wreath class 16)
 1 One geranium plant (not exceeding 20cm diameter pot)
 2 One flowering pot plant (not exceeding 20cm diameter pot)
@@ -118,7 +123,7 @@ Flowers and Floral Art
 16 Floral wreath (max diameter 40cm)
 
 
-Fruit and Vegetables
+**Fruit and Vegetables**
 (Classes marked with \* may be cut and tasted by the judge)
 17 Heaviest vegetable marrow
 18 Four potatoes
@@ -144,7 +149,7 @@ Fruit and Vegetables
 38 Strangest shaped fruit/vegetable (judge’s choice)
 
 
-Home Produce
+**Home Produce**
 39 Three fruit scones
 40 Three cheese scones
 41 One loaf of bread, any variety (bread makers allowed)
@@ -169,7 +174,7 @@ Home Produce
 60 One jar of set honey
 
 
-Photography
+**Photography**
 (Maximum size of photograph to be 20 x 25cm)
 61 Photograph from your garden
 62 Photograph of a bridge
@@ -177,7 +182,7 @@ Photography
 64 A black and white photograph (any subject)
 
 
-Art
+**Art**
 (Artwork can be framed or unframed)
 65 An animal or bird (any medium)
 66 Mixed media to include collage (any subject)
@@ -186,7 +191,7 @@ Art
 
 
 
-Craft
+**Craft**
 (All items submitted should have been crafted in the last year)
 69 A crocheted cushion cover
 70 A knitted child's jumper or cardigan
@@ -204,7 +209,7 @@ Saltgreens Residential Care Home, Eyemouth
 78 An item in any craft not specified above
 
 
-Children’s Open Section
+**Children’s Open Section**
 (Open to all children under 18 years. Please display age on entry form.)
 79 Collage or applique on the printed picture of a snail or a whale
 (provided by school or download from website)
@@ -221,7 +226,9 @@ hedgehogs, ladybirds and snails so far)
  A city or townscape (any medium)
 Children are also welcome to enter any of the adult categories,
 except art but including photography
-Children's School Section
+
+
+**Children's School Section**
 Artwork – to be chosen and displayed by school:
  Class 1, Class 2 and Class 3
 Handwritten Work – to be chosen and displayed by school:
