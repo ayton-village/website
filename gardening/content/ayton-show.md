@@ -51,8 +51,8 @@ View full schedule below
 
 #### 2025 Schedule
 
-#### 
-Information for the Day
+
+**Information for the Day**
 
 
 Certificates will be awarded for First, Second and Third in each class
