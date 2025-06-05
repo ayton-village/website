@@ -107,13 +107,13 @@ Dogs are not permitted in either building.
     of the rules shall be decided by the Committee, whose decision is
     final.
 
-<div style="display:flex;gap:1em;width:100%;margin:3em 0;">
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1" />
+<div style="display:flex;gap:1em;width:100%;margin:3em 0;" aria-hidden="true">
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
 </div>
 
 #### Classes
@@ -249,11 +249,11 @@ Artwork – to be chosen and displayed by school: Class 1, Class 2 and Class 3
 Handwritten Work – to be chosen and displayed by school: Class 1, Class 2 and Class 3  
 Snail quiz with a picture tie-breaker – to be distributed by school
 
-<div style="display:flex;gap:1em;width:100%;margin:3em 0;">
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
-<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
+<div style="display:flex;gap:1em;width:100%;margin:3em 0;" aria-hidden="true">
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;" />
+<img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;" />
 </div>
