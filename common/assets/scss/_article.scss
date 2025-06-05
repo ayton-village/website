@@ -33,6 +33,11 @@ div.frame-content {
     max-width: 100%;
   }
 
+  .md-image.svg img {
+    width: auto;
+    height: 6em;
+  }
+
   > p:has(.md-image.is-small:only-child) {
     text-align: center;
     @media #{$firstBreakpointStr} {

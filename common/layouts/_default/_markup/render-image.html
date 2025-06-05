@@ -8,8 +8,10 @@
     {{- $img = $img.Fit "2000x2000 webp" -}}
   {{- end -}}
   {{- $src = ($img | resources.Fingerprint "md5").RelPermalink -}}
-  {{- if (le $img.Width 1000) -}}
-    {{- $isSmall = true -}}
+  {{- if not (eq $media "svg") -}}
+    {{- if (le $img.Width 1000) -}}
+      {{- $isSmall = true -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 <span class="md-image {{ $media }} {{- if ($isSmall) }} is-small {{- end }}"><img src="{{ $src }}" alt="{{ .Text }}" {{- with .Title}} title="{{ . }}" {{- end }}></span>
