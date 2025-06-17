@@ -24,6 +24,8 @@ sites:
     link: https://council.ayton-village.org
   - name: Ayton Community Hall
     link: https://hall.ayton-village.org
+  - name: Ayton Gardening Society
+    link: https://aytongardens.com
 icons:
   - icon: facebook
     alt: Facebook
