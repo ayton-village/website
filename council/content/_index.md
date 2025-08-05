@@ -13,7 +13,7 @@ _Ayton CC boundary_
 
 ## Next Meeting
 
-**The next meeting will be held on Tuesday 3 June 2025 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
+**The next meeting will be held on Tuesday 5 August 2025 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
 
 Most meetings are held at 7pm on the first Tuesday of the month, but please check this website or the community council notice board outside the shop.
 
