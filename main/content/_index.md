@@ -18,7 +18,7 @@ Ayton Primary School & Ayton Bowling Club
 
 ##### Ayton Music & Beer Festival 2025
 
-Saturday 6 September, 4–10pm  
+Saturday 6 September, 5–10pm  
 Ayton Bowling Club
 
 [_More info_](/calendar)

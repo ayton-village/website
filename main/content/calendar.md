@@ -18,7 +18,7 @@ redirects:
 
 Ayton Show is back for 2025, on the first weekend of September. Click the image below for the full schedule, or visit [the page on the Ayton Gardening Society website](https://aytongardens.com/ayton-show-2025) for more information.
 
-This year also sees the introduction of Ayton Music & Beer Festival, immediately following Ayton Show at 4pm. This inaugural event will see four bands performing, as well as a full bar featuring two guest casks.
+This year also sees the introduction of Ayton Music & Beer Festival, immediately following Ayton Show at 5pm. This inaugural event will see four bands performing, as well as a full bar featuring two guest casks.
 
 ---
 
