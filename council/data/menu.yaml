@@ -4,6 +4,9 @@ main:
     link: Home page
     title: Home
   - type: page
+    link: Survey 2025
+    title: Community Survey
+  - type: page
     link: Members
     title: Members
   - type: page
