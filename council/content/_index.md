@@ -19,7 +19,7 @@ Our community survey is live, and we would love to hear from all residents. Subm
 
 ## Next Meeting
 
-**The next meeting will be held on Tuesday 2 September 2025 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
+**The next meeting will be held on Tuesday 7 October 2025 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
 
 Most meetings are held at 7pm on the first Tuesday of the month, but please check this website or the community council notice board outside the shop.
 
