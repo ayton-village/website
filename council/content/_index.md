@@ -11,11 +11,9 @@ Welcome to the website for Ayton Community Council. Ayton is a beautiful village
 _Ayton CC boundary_
 {{</aside>}}
 
-## Take the Community Survey
+## Community Survey
 
-Our community survey is live, and we would love to hear from all residents. Submissions are open until 31 October 2025.
-
-#### [Take Survey](https://council.ayton-village.org/survey)
+The deadline for submitting the Community Survey 2025 has now passed. Thank you to all who took part.
 
 ## Next Meeting
 
