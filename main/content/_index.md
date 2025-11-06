@@ -7,12 +7,6 @@ redirects:
   - /welcome/
 ---
 
-{{<aside side="left">}}
-
-[Overnight road closure of A1](https://www.bearscot.com/a1-lamberton-overnight-resurfacing/)
-
-{{</aside>}}
-
 Ayton is an attractive village in the East Berwickshire part of the Scottish Borders, with a population of around 500. The main A1 road ran through the village until the 1980s when a bypass road was built.
 
 We have a [primary school](https://aytonprimary.com) with around 80 pupils and a really well stocked [village shop](https://www.facebook.com/aytonminimart/). The mobile branch of RBS visits once a week on a Friday (10:00&ndash;10:30). The Post Office's outreach has ceased, the closest branches are in [Reston](https://www.postoffice.co.uk/branch-finder/1458302/reston) and [Eyemouth](https://www.postoffice.co.uk/branch-finder/2078309/eyemouth).
@@ -22,3 +16,9 @@ The mobile branch of the RBS visits the village every Friday morning from 10:00 
 Within a mile of the village we have the beautiful [Ayton Castle](https://aytoncastle.co.uk), built in the 1850s in the Scottish Baronial style in red sandstone.
 
 The village defibrillator is situated in the Community Hall vennel.
+
+## Upcoming road closures
+
+![Road closure at Ayton Cocklaw](/assets/road-closure-2025-12-01.webp)
+
+Ayton Cocklaw: 08:00 on Monday 1st December 2025 to 17:00 on Friday 5th December 2025.
