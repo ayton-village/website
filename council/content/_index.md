@@ -13,7 +13,7 @@ _Ayton CC boundary_
 
 ## Community Survey
 
-The deadline for submitting the Community Survey 2025 has now passed. Thank you to all who took part.
+The deadline for submitting the Community Survey 2025 has now passed. Thank you to all who took part. We are analysing the results and will be sharing our findings soon.
 
 ## Next Meeting
 
