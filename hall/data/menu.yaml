@@ -3,7 +3,7 @@ main:
     link: Home page
     title: Home
   - type: page
-    link: What's On?
+    link: What’s On
     title: What’s on?
   - type: page
     link: Hiring the hall
