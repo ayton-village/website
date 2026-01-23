@@ -8,12 +8,6 @@ Please find here what is on in Ayton Community Hall
 
 ### 🌟 Date for your Diary 🌟
 
-**30th January 7-30 pm**
-
-**Film of the Month**
-
-**White Christmas**
-
-![](/assets/ach-brick.jpg)
+**30th January 7-30**
 
 [](tel:+447802667126)[](https://www.facebook.com/AytonCommunityHall)[](mailto:hall@ayton-village.org)
