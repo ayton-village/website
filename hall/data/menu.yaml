@@ -1,4 +1,3 @@
----
 main:
   - type: page
     link: Home page
@@ -10,8 +9,6 @@ main:
     link: Hiring the hall
     title: ""
   - type: page
-    link: Accounts list
-  - type: page
     link: Board
     title: Trustees
   - type: page
@@ -20,6 +17,8 @@ main:
 footer:
   - type: page
     link: Privacy policy
+  - type: page
+    link: Accounts list
 sites:
   - name: Ayton, Berwickshire
     link: https://ayton-village.org
@@ -30,5 +29,3 @@ icons:
   - icon: envelope
     title: Email
     link: mailto:hall@ayton-village.org
----
-
