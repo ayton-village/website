@@ -14,6 +14,8 @@ main:
   - type: page
     link: History
     title: History
+  - type: page
+    link: Trustee
 footer:
   - type: page
     link: Privacy policy
