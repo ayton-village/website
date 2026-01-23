@@ -1,9 +1,10 @@
 ---
-internal_name: Trustee
+internal_name: Trustees
 title: Trustees
 is_page: true
 toc: false
 ---
+
 Chairman Isabel Kellie
 
 Secretary Paul Smart

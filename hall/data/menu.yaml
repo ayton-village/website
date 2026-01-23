@@ -3,26 +3,22 @@ main:
     link: Home page
     title: Home
   - type: page
-    link: Calendar
+    link: What's On?
     title: What’s on?
   - type: page
     link: Hiring the hall
-    title: ""
-  - type: page
-    link: Board
-    title: Trustees
+    title: Hiring the hall
   - type: page
     link: History
     title: History
-  - type: page
-    link: Trustee
-  - type: page
-    link: What's On
 footer:
   - type: page
     link: Privacy policy
   - type: page
     link: Accounts list
+  - type: page
+    link: Trustees
+    title: Trustees
 sites:
   - name: Ayton, Berwickshire
     link: https://ayton-village.org
