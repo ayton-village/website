@@ -19,6 +19,4 @@ I Swear is the true life-story of Tourette Syndrome campaigner John Davidson. In
 
 Stars Robert Aramayo, Maxine Peake with Shirley Henderson and Peter Mullan.
 
-![](/assets/iswear.jpg)
-
-[](tel:+447802667126)[](https://www.facebook.com/AytonCommunityHall)[](mailto:hall@ayton-village.org)
+![Poster of I Swear](/assets/iswear.jpg)
