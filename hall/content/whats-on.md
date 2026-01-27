@@ -4,6 +4,7 @@ title: What's On?
 is_page: true
 toc: false
 ---
+
 1. Please find here what is on in Ayton Community Hall
 
 ### 🌟 Date for your Diary 🌟
@@ -18,8 +19,6 @@ toc: false
 
 **Stars Robert Aramayo, Maxine Peake with Shirley Henderson and Peter Mullan.**
 
-![]()
-
-
+![](/assets/iswear.jpg)
 
 [](tel:+447802667126)[](https://www.facebook.com/AytonCommunityHall)[](mailto:hall@ayton-village.org)
