@@ -16,9 +16,3 @@ The mobile branch of the RBS visits the village every Friday morning from 10:00 
 Within a mile of the village we have the beautiful [Ayton Castle](https://aytoncastle.co.uk), built in the 1850s in the Scottish Baronial style in red sandstone.
 
 The village defibrillator is situated in the Community Hall vennel.
-
-## Upcoming road closures
-
-![Road closure at Ayton Cocklaw](/assets/road-closure-2025-12-01.webp)
-
-Ayton Cocklaw: 08:00 on Monday 1st December 2025 to 17:00 on Friday 5th December 2025.
