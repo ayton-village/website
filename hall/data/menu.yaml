@@ -11,6 +11,8 @@ main:
   - type: page
     link: History
     title: History
+  - type: page
+    link: Classes available
 footer:
   - type: page
     link: Privacy policy
