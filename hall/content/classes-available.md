@@ -4,16 +4,12 @@ title: Classes available
 is_page: true
 toc: false
 ---
-# 
 **These are the classes which take place during the week.** 
 
-
-EBU3A classes include Mahjong, Music appreciation, Singing for fun, Opera Appreciation and Geology. For any of these classes please contact Malcolm Surridge ebu3atreasurer@gmail.com
+EBU3A classes include Mahjong, Music appreciation, Singing for fun, Opera Appreciation and Geology. For any of these classes please contact David Hunter ebu3achair@gmail.com
 **Geology** - Fridays 9:45 - 12:00
 **Opera Appreciation** Thursdays 1:30 - 4:30
 **Singing for Fun** Tuesdays 2:00 - 3:30
-
-
 
 **Bridge Club** Mondays 14:00 - 16:00 led by Jo Rowley
 
@@ -22,7 +18,6 @@ EBU3A classes include Mahjong, Music appreciation, Singing for fun, Opera Apprec
 **Local History Society** – (Rowena Dean – rdean@gmx.co.uk)
 
 **Pilates** with Claire Tognerski  Mondays 09:00 - 10:00  (claire.targonski@gmail.com)
-
 
 **Ayton SWI** – 4th Wednesday of each month at 19:15 (Jen Logan - jenalemill@gmail.com) 
 
