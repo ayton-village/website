@@ -11,11 +11,11 @@ EBU3A classes include Mahjong, Music appreciation, Singing for fun, Opera Apprec
 **Opera Appreciation** Thursdays 1:30 - 4:30
 **Singing for Fun** Tuesdays 2:00 - 3:30
 
-**Bridge Club** Mondays 14:00 - 16:00 led by Jo Rowley
+**Bridge Club** Mondays 14:00 - 16:00 led by Jo Rowley (welltower4@sky.com)
 
-**Keep Fit** Tuesdays and Fridays 5:45 - 6:45 contact Rhonda Noble rhonda.noble@btinternet.conm   phone 81467
+**Keep Fit** Tuesdays and Fridays 5:45 - 6:45 contact Rhonda Noble rhonda.noble@btinternet.com   phone 81467
 
-**Local History Society** – (Rowena Dean – rdean@gmx.co.uk)
+**Local History Society** – (Rowena Dean – rdean@gmx.co.uk) The society meets at 7.30pm on the fourth Tuesday of the month from September until April. It aims to promote interest in local history, mainly through lectures, occasional trips and by consulting it's small library in the community hall. There is much more information available on the website. www.aytonhistory.com
 
 **Pilates** with Claire Targonski  Mondays 09:00 - 10:00  (jumpstart.now@zoho.com)
 
