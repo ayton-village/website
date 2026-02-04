@@ -17,7 +17,7 @@ The deadline for submitting the Community Survey 2025 has now passed. Thank you 
 
 ## Next Meeting
 
-**The next meeting will be held on Tuesday 3 February 2026 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
+**The next meeting will be the AGM on Tuesday 3 March 2026 at 19:00 in [Ayton Community Hall](https://hall.ayton-village.org).**
 
 Most meetings are held at 7pm on the first Tuesday of the month, but please check this website or the community council notice board outside the shop.
 
