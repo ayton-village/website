@@ -17,7 +17,7 @@ EBU3A classes include Mahjong, Music appreciation, Singing for fun, Opera Apprec
 
 **Local History Society** – (Rowena Dean – rdean@gmx.co.uk)
 
-**Pilates** with Claire Tognerski  Mondays 09:00 - 10:00  (claire.targonski@gmail.com)
+**Pilates** with Claire Targonski  Mondays 09:00 - 10:00  (jumpstart.now@zoho.com)
 
 **Ayton SWI** – 4th Wednesday of each month at 19:15 (Jen Logan - jenalemill@gmail.com) 
 
