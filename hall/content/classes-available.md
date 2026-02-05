@@ -11,7 +11,7 @@ EBU3A classes include Mahjong, Music appreciation, Singing for fun, Opera Apprec
 **Opera Appreciation** Thursdays 1:30 - 4:30
 **Singing for Fun** Tuesdays 2:00 - 3:30
 
-**Bridge Club** Mondays 14:00 - 16:00 led by Jo Rowley (welltower4@sky.com)
+**Casual Bridge Club** Mondays 14:00 - 16:00 led by Jo Rowley (e mail welltower4@sky.com tel 0787479520)
 
 **Keep Fit** Tuesdays and Fridays 5:45 - 6:45 contact Rhonda Noble rhonda.noble@btinternet.com   phone 81467
 
