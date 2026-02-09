@@ -19,7 +19,7 @@ EBU3A classes include Mahjong, Music appreciation, Singing for fun, Opera Apprec
 
 **Pilates** with Claire Targonski  Mondays 09:00 - 10:00  (jumpstart.now@zoho.com)
 
-**Ayton SWI** – 4th Wednesday of each month at 19:15 (Jen Logan - jenalemill@gmail.com) The SWI provides an excellent way for newcomers to the are to meet local women. We organise interesting educational speakers and provide the opportunity to participate in a long list of activities such as flower arranging, willow weaving, needle felting and much more
+**Ayton Scottish Womens Institute** – meets on the 4th Wednesday of each month at 19:15 (Jen Logan - jenalemill@gmail.com) The SWI provides an excellent way for newcomers to the area to meet local women. We organise interesting educational speakers and provide the opportunity to participate in a long list of activities such as flower arranging, willow weaving, needle felting and much more
 
 **Tai Chi**  Mondays 12:30 - 13:30 (Adele Robertson - adelenerobertson68@gmail.com)
 
