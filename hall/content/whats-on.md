@@ -36,7 +36,7 @@ toc: false
 
 ### Saturday
 
-* **12:00–16:00:** Private Party
+* **10.00-11.00 Ayton & District Churches Coffee Morning**
 
 ### Sunday
 
