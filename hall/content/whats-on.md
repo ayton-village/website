@@ -36,7 +36,7 @@ toc: false
 
 ### Saturday
 
-* **10.00-11.00 Ayton & District Churches Coffee Morning**
+* **10.00-11.00** Ayton & District Churches Coffee Morning
 
 ### Sunday
 
