@@ -4,7 +4,7 @@ title: What's On
 is_page: true
 toc: false
 ---
-## Week beginning 9th Feb
+## Week beginning 16th Feb
 
 ### Monday
 
