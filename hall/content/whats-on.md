@@ -10,7 +10,6 @@ toc: false
 
 * **09:00–10:00:** Pilates
 * **12:30–13:30:** Tai Chi
-* **14:00–16:00:** Bridge Club
 
 ### Tuesday
 
@@ -21,11 +20,11 @@ toc: false
 ### Wednesday
 
 * **09:30–11:00:** Drop In. Why not drop in for a tea or coffee and a blether?
-* **11.00-12.00** Ayton Local History Society
-* **19.00-21.00** ACHA Trustee meeting
+* **18.00-20.00** Peelwalls' Residents
 
 ### Thursday
 
+* **10.00-12.00** EB U3AMusic Appreciation
 * **14.00-16.00** EB U3A Mahjong
 * **19:00–21:00:** Whichcraft
 
@@ -36,7 +35,7 @@ toc: false
 
 ### Saturday
 
-* **10.00-11.00** Ayton & District Churches Coffee Morning
+* (Nothing)
 
 ### Sunday
 
