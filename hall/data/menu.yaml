@@ -15,6 +15,9 @@ main:
     link: Classes available
   - type: page
     link: What’s On
+  - type: page
+    title: Monthly Film
+    link: What’s On
 footer:
   - type: page
     link: Privacy policy
