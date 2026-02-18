@@ -13,6 +13,8 @@ main:
     title: History
   - type: page
     link: Classes available
+  - type: page
+    link: What’s On
 footer:
   - type: page
     link: Privacy policy
