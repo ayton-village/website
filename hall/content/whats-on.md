@@ -18,7 +18,7 @@ toc: false
 * **10:00–11:00:** Walk It
 * **13:00–15:30:** EB U3A Singing for Fun
 * **17:45–18:45:** Keep Fit
-* **19.00-21.00: Ayton Local History Society** 
+* **19.00-21.00:** Ayton Local History Society
 
 ### Wednesday
 
