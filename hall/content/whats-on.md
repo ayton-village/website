@@ -4,14 +4,12 @@ title: What's On
 is_page: true
 toc: false
 ---
-## Week beginning 9th March 2026
+## Week beginning 16th March 2026
 
 ### Monday
 
 * **09:00–10:00:** Pilates
 * **12:30–13:30:** Tai Chi
-* **14.00-16.00:** Bridge Club
-* **19.00-20.30** ACHA Trustee Meeting
 
 ### Tuesday
 
@@ -22,10 +20,11 @@ toc: false
 ### Wednesday
 
 * **09:30–11:00:** Drop In. Why not drop in for a tea or coffee and a blether?
-* **14:00-16:00** Tweedside Ladies
+* **19:00-21:00:** Bridge Club
 
 ### Thursday
 
+* **10:00-12:00:** EB U3A Music Appreciation
 * **14:00-16:00** EB U3A Mahjong
 * **19.00-20:30** Whichcraft
 
@@ -36,8 +35,4 @@ toc: false
 
 ### Saturday
 
-* **10:00-11:00** Ayton & District Churches Coffee Morning
-
 ### Sunday
-
-* (Nothing)
