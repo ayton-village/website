@@ -8,6 +8,6 @@ Chairman Isabel Kellie
 
 Secretary Paul Smart
 
-Treasurer Bill Black
+Treasurer David Wilson
 
-Members Jane Craig, Caroline Lathe, Sue Marrs, Chris Nitsche, Alan Robertson, Angus Scott, Paul Smart, Anita Spencer, Antony Spencer, David Wilson
+Members Jane Craig, Caroline Lathe, Sue Marrs, Chris Nitsche, Alan Robertson, Angus Scott, Paul Smart, Anita Spencer, Antony Spencer, Bill Black.
