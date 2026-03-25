@@ -33,7 +33,7 @@ toc: false
 
 * **13:00–14:00:** Children’s Dance
 * **17:45–18:45:** Keep Fit
-* **19:30-22:00:** Film Night
+* **19:30-22:00:** Film Night - Wicked For Good. Part two of the hugely successful film adaptation of the celebrated stage show.
 
 ### Saturday
 
