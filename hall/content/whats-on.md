@@ -4,13 +4,14 @@ title: What's On
 is_page: true
 toc: false
 ---
-## Week beginning 13th April 2026
+## Week beginning 20th April 2026
 
 ### Monday
 
+* **09:00-10:00:** Pilates
 * **12:30–13:30:** Tai Chi
 * **14:00-16.00:** Bridge Club
-* **19:00-21:00:** ACHA Trustees Meeting
+* **19:00-21:00:** Ayton Gardening Society
 
 ### Tuesday
 
@@ -20,17 +21,19 @@ toc: false
 ### Wednesday
 
 * **09:30–11:00:** Drop In. Why not drop in for a tea or coffee and a blether?
+* **14:00-16:00:** Ayton & District Church Guild
 * **19:00-21:00:** Bridge Club
 
 ### Thursday
 
-* **10:00-12:00:** EBU3A Music Appreciation
-* **14:00-16:00:** EBU3A Mahjong
 * **19.00-20:30** Whichcraft
 
 ### Friday
 
+* **11:00-12:00:** Ayton Local History Society
+* **13:00-14:30:** Childrens Dancing
 * **17:45–18:45:** Keep Fit
+* **19:30-22:00:** Film
 
 ### Saturday
 
