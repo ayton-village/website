@@ -31,9 +31,9 @@ toc: false
 ### Friday
 
 * **11:00-12:00:** Ayton Local History Society
-* **13:00-14:30:** Childrens Dancing
+* **13:00-14:30:** Children's Dancing
 * **17:45–18:45:** Keep Fit
-* **19:30-22:00:** Film
+* **19:30-22:00:** Film HAMNET- a critically acclaimed, emotionally intense drama exploring grief and creative alchemy. It focuses on the death of Shakespear's son and the subsequent creation of Hamlet.
 
 ### Saturday
 
