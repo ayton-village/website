@@ -6,9 +6,17 @@ is_page: true
 toc: false
 ---
 {{<aside side="right">}}
-[![Front cover of Booklet](/assets/aytonshow2025frontcover.png)](/assets/aytonshowschedule2025screen.pdf)
+
+
+![](/assets/aytonshowschedule2026coverjpg.jpg)
+
+
 [Download PDF of Schedule](/assets/aytonshowschedule2025screen.pdf)
 {{</aside>}}
+
+![]()
+
+![]()
 
 ## [Enter now](/ayton-show-2025/enter)
 
@@ -43,7 +51,7 @@ entries ready!
 
 As last year, we would ask that you send in your entry forms as usual either using the form in the schedule or [online here](/ayton-show-2025/enter), but you do not need to pay anything until the big day.
 
-Please get your entry forms in early if possible (deadline is Friday 29th August) and bring along your £2 entry fee in **cash on the day**! We are looking forward to seeing you!​
+Please get your entry forms in early if possible (deadline is Friday 28th August) and bring along your £2 entry fee in **cash on the day**! We are looking forward to seeing you!​
 
 (If you have trouble downloading, you can also ask for the PDF file to be emailed to you, or you can see the entire schedule below, and the [entry form here](/ayton-show-2025/enter))
 
@@ -79,7 +87,7 @@ Dogs are not permitted in either building.
    entries made by that person and also allows entry to and a right to
    vote at our AGM.
 2. The competition entry form can be found in the printed schedule ([PDF](/assets/aytonshowschedule2025screen.pdf)) or [completed online](/ayton-show-2025/enter).
-3. Competition entry forms must be returned by Friday 29th August 2025. The form may be posted or handed in to
+3. Competition entry forms must be returned by Friday 28th August 2026. The form may be posted or handed in to
    *Lenzie House, 3 High Street, Ayton, TD14 5QN*, emailed to aytongardens@outlook.com, or [completed online](/ayton-show-2025/enter).
 4. Exhibitors will be provided with cards for each of their exhibits on
    the day of the show on payment of £2 entry fee (CASH only).
