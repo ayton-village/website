@@ -1,7 +1,7 @@
 ---
-internal_name: Ayton Show 2025 Entry Form
-url: ayton-show-2025/enter
-title: Ayton Show 2025 Entry Form
+internal_name: Ayton Show 2026 Entry Form
+url: ayton-show-2026/enter
+title: Ayton Show 2026 Entry Form
 is_page: true
 toc: false
 ---
