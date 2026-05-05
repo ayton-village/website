@@ -25,7 +25,7 @@ Our eagerly anticipated plant sale, cake sale and coffee morning will be held in
 
 As usual, we will have a selection of bedding plants, vegetable plants and perennials etc. for sale behind the hall, and a fine table full of delicious home baking offerings for sale inside the hall, along with tea, coffee and biscuits.
 
-Donations of plants or home baking are very welcome. Please bring them along on the morning of the sale.
+Donations of plants or home baking are very welcome. Please bring them along on the morning of the sale at 10am.
 
 ![](/assets/coffeemorningpostermay26screen.jpg)
 
