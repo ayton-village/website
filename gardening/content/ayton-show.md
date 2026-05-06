@@ -5,18 +5,13 @@ title: Ayton Show
 is_page: true
 toc: false
 ---
+
 {{<aside side="right">}}
 
-
-![](/assets/aytonshowschedule2026coverjpg.jpg)
-
+![Cover of 2026 Schedule](/assets/aytonshowschedule2026coverjpg.jpg)
 
 [Download PDF of Schedule](/assets/aytonshowschedule2025screen.pdf)
 {{</aside>}}
-
-![]()
-
-![]()
 
 ## [Enter now](/ayton-show-2025/enter)
 
@@ -39,9 +34,9 @@ We really look forward to seeing you at the show. Have fun getting your
 entries ready!
 
 – The Committee of the Ayton Gardening Society\
-*[aytongardens@outlook.com](mailto:aytongardens@outlook.com)*
+_[aytongardens@outlook.com](mailto:aytongardens@outlook.com)_
 
-- - -
+---
 
 {{<aside side="left">}}
 
@@ -88,7 +83,7 @@ Dogs are not permitted in either building.
    vote at our AGM.
 2. The competition entry form can be found in the printed schedule ([PDF](/assets/aytonshowschedule2025screen.pdf)) or [completed online](/ayton-show-2025/enter).
 3. Competition entry forms must be returned by Friday 28th August 2026. The form may be posted or handed in to
-   *Lenzie House, 3 High Street, Ayton, TD14 5QN*, emailed to aytongardens@outlook.com, or [completed online](/ayton-show-2025/enter).
+   _Lenzie House, 3 High Street, Ayton, TD14 5QN_, emailed to aytongardens@outlook.com, or [completed online](/ayton-show-2025/enter).
 4. Exhibitors will be provided with cards for each of their exhibits on
    the day of the show on payment of £2 entry fee (CASH only).
 5. Any exhibitor of 18 years or less must complete an entry form as
@@ -148,15 +143,15 @@ Dogs are not permitted in either building.
 
 ##### Fruit and Vegetables
 
-(Classes marked with * may be cut and tasted by the judge)
+(Classes marked with \* may be cut and tasted by the judge)
 
 17. Heaviest vegetable marrow
 18. Four potatoes
 19. Heaviest potato
 20. Three carrots
 21. Longest carrot (crown to root tip)
-22. One cucumber *
-23. One red pepper *
+22. One cucumber \*
+23. One red pepper \*
 24. Two chilli peppers (same variety)
 25. Three beetroot (leaves and root not cut)
 26. Four runner beans
@@ -165,12 +160,12 @@ Dogs are not permitted in either building.
 29. Three stalks rhubarb
 30. Three courgettes
 31. Four onions
-32. Four eating apples (green) *
-33. Four eating apples (coloured) *
+32. Four eating apples (green) \*
+33. Four eating apples (coloured) \*
 34. Four cooking apples
-35. Six plums *
-36. Six cherry tomatoes *
-37. Four large tomatoes *
+35. Six plums \*
+36. Six cherry tomatoes \*
+37. Four large tomatoes \*
 38. Strangest shaped fruit/vegetable (judge’s choice)
 
 ##### Home Produce
@@ -244,10 +239,9 @@ Dogs are not permitted in either building.
 85. Draw or paint a garden creature for next year's show (we've had bees, hedgehogs, ladybirds and snails so far)
 86. Any other craft not mentioned in the above classes
 87. Art section:
-
-    * An animal or bird (any medium)
-    * Mixed media to include collage (any subject)
-    * A city or townscape (any medium)
+    - An animal or bird (any medium)
+    - Mixed media to include collage (any subject)
+    - A city or townscape (any medium)
 
 **Children are also welcome to enter any of the adult categories, except art but including photography**
 
