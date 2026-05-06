@@ -68,11 +68,11 @@ View full schedule below
 {{</aside>}}
 
 Certificates will be awarded for First, Second and Third in each class.
-Teas will be served in the Bowling Club from 2–4.30pm.
+Teas will be served in the Bowling Club from 2–4pm.
 Norham Brass Band will play during the afternoon.
-Tombola from 2pm.
+Tombola from 1pm.
 Wheelchair access is available in both the School and the Bowling Club.
-Toilets are available in the School and in the Bowling Club.
+Toilets are available in both the School and in the Bowling Club.
 Dogs are not permitted in either building.
 
 #### Rules
@@ -107,6 +107,7 @@ Dogs are not permitted in either building.
 15. Any questions about the eligibility of an exhibit or the interpretation
     of the rules shall be decided by the Committee, whose decision is
     final.
+16. Everything must have been produced within the last year, with the exception of classes 1, 2, and 3.
 
 <div style="display:flex;gap:1em;width:100%;margin:3em 0;" aria-hidden="true">
 <img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;transform:scaleX(-1);" />
@@ -121,30 +122,30 @@ Dogs are not permitted in either building.
 
 ##### Flowers and Floral Art
 
-(All flowers and plants to be homegrown except the Floral Wreath class 16)
+(All flowers and plants to be homegrown except class 16)
 
 1. One geranium plant (not exceeding 20cm diameter pot)
 2. One flowering pot plant (not exceeding 20cm diameter pot)
 3. One foliage pot plant (not exceeding 20cm diameter pot)
-4. One pot plant/plants of special interest in one container (any variety)
+4. One vase of sweet peas
 5. One single rose bloom
 6. One vase of three roses (dissimilar)
 7. One vase of three dahlia blooms
 8. Six fuchsia heads on a board
 9. One vase of mixed annuals (any mixture)
 10. Arrangement of mixed garden flowers (not shop bought)
-11. Arrangement of dried grasses/seed heads
+11. Arrangement of dried grasses and/or flowers and/or seed heads
 12. Floating arrangement in a bowl
 13. Floral arrangement as a table centrepiece
 14. An arrangement of herbs in a kitchen utensil/container
 15. Miniature floral arrangement in a tea cup
-16. Floral wreath (max diameter 40cm)
+16. Arrangement of flowers, seed heads and/or foliage from the hedgerow
 
 ##### Fruit and Vegetables
 
 (Classes marked with * may be cut and tasted by the judge)
 
-17. Heaviest vegetable marrow
+17. Heaviest vegetable marrow or overgrown courgette
 18. Four potatoes
 19. Heaviest potato
 20. Three carrots
@@ -173,14 +174,14 @@ Dogs are not permitted in either building.
 40. Three cheese scones
 41. One loaf of bread, any variety (bread makers allowed)
 42. Three muffins (sweet or savoury)
-43. Three Cornish Fairings (as per recipe above)
-44. Madeira cake
+43. Eyemouth Tart (as per recipe above)
+44. Carrot cake
 45. Lemon drizzle (2lb loaf tin, liner allowed)
 46. Gingerbread (2lb loaf tin, liner allowed)
 47. Three pieces of traybake
 48. Victoria sandwich cake (jam-filled, no topping)
 49. Swiss roll (any flavour)
-50. Three shortbread biscuits or fingers
+50. Three cookies (any variety)
 51. One jar strawberry jam
 52. One jar raspberry jam
 53. One jar fruit jam (please label the variety)
@@ -194,48 +195,50 @@ Dogs are not permitted in either building.
 
 ##### Photography
 
-(Maximum size of photograph to be 20 x 25cm)
+(Maximum size of photograph to be 20 x 25cm (8 x 10"))
 
-61. Photograph from your garden
-62. Photograph of a bridge
-63. Photograph of a sunset
+To be unframed and unmounted, and taken within the last year
+
+61. Photograph featuring water
+62. Photograph of a pet with a funny caption
+63. Photograph of a local view
 64. A black and white photograph (any subject)
 
 ##### Art
 
-(Artwork can be framed or unframed)
+(Artwork must have been completed within the last year, and can be framed, mounted or unframed)
 
-65. An animal or bird (any medium)
+65. A pencil drawing
 66. Mixed media to include collage (any subject)
-67. A city or townscape (any medium)
+67. A painting of a favourite place (any medium)
 68. A botanical illustration (any medium, any size)
 
 ##### Craft
 
-(All items submitted should have been crafted in the last year)
+(All items to have been crafted in the last year)
 
-69. A crocheted cushion cover
-70. A knitted child's jumper or cardigan
-71. A cross stitched item
-72. An embroidered item
-73. An item of jewellery
-74. A small item made of wood
-75. A birthday card (any medium)
-76. A christmas tree decoration (any medium)
-77. A lap quilt using scrap fabric (lap quilts are designed to be used when sitting, are smaller than traditional quilts and should measure from 90 x 75cm to 150 x 125cm) (Please note the lap quilts are to be donated to Saltgreens Residential Care Home, Eyemouth)
+69. A fabric autumnal wreath
+70. A Christmas card (any medium)
+71. An item of jewellery
+72. A small item made of wood
+73. A pair of knitted fingerless gloves
+74. A patchwork cushion
+75. An embroidered item
+76. A cross stitched item
+77. A knitted or crocheted cot cover size 45 x 41cm, any colour (Please note the cot covers are to be donated to BGH)
 78. An item in any craft not specified above
 
 ##### Children’s Open Section
 
 (Open to all children under 18 years. Please display age on entry form.)
 
-79. Collage or applique on the printed picture of a snail or a whale (provided by school or download from website)
+79. Collage or applique on the printed picture of a butterfly or a caterpillar (provided by school or download from website)
 80. Paint or draw on a rock or pebble
 81. Make a home for nature eg. hedgehog house, bug hotel or bird house
 82. Decorate a biscuit or cupcake
 83. Create a model from Lego or other toy bricks
-84. A vase of flowers from your garden
-85. Draw or paint a garden creature for next year's show (we've had bees, hedgehogs, ladybirds and snails so far)
+84. A model made with recycled materials
+85. Draw or paint a garden creature for next year's show (we've had bees, hedgehogs, ladybirds, snails and butterflies so far)
 86. Any other craft not mentioned in the above classes
 87. Art section:
 
@@ -249,7 +252,7 @@ Dogs are not permitted in either building.
 
 Artwork – to be chosen and displayed by school: Class 1, Class 2 and Class 3\
 Handwritten Work – to be chosen and displayed by school: Class 1, Class 2 and Class 3\
-Snail quiz with a picture tie-breaker – to be distributed by school
+Butterfly quiz with a picture tie-breaker – to be distributed by school
 
 <div style="display:flex;gap:1em;width:100%;margin:3em 0;" aria-hidden="true">
 <img src="/assets/snail.svg" style="height:auto;width:1em;flex-grow:1;" />
