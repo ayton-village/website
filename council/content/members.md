@@ -12,5 +12,4 @@ To contact Ayton Community Council, email <council@ayton-village.org>.
 - **Paul Cliffe**
 - **Alison Currie**
 - **Toby Foster**
-- **Emily Sanderson**
 - **Amanda Wright**
