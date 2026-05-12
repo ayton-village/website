@@ -1,7 +1,7 @@
 ---
 internal_name: Fairings recipe 2025
 url: ayton-show-2025/fairings-recipe
-title: Cornish Fairings Recipe (class 43, Ayton Show 2025)
+title: Eyemouth Tart Recipe (class 43, Ayton Show 2026)
 is_page: true
 toc: false
 ---
