@@ -5,7 +5,6 @@ title: Ayton Show
 is_page: true
 toc: false
 ---
-
 {{<aside side="right">}}
 
 [![Cover of 2026 Schedule](/assets/aytonshowschedule2026coverjpg.jpg)](/assets/aytonshowschedule2026screen.pdf)
@@ -32,9 +31,9 @@ We really look forward to seeing you at the show. Have fun getting your
 entries ready!
 
 – The Committee of the Ayton Gardening Society\
-_[aytongardens@outlook.com](mailto:aytongardens@outlook.com)_
+*[aytongardens@outlook.com](mailto:aytongardens@outlook.com)*
 
----
+- - -
 
 {{<aside side="left">}}
 
@@ -54,9 +53,9 @@ View full schedule below
 
 {{<gallery columns="3" pictures="[{&quot;image&quot;:&quot;/assets/pxl_20240907_110159943.jpg&quot;,&quot;alt&quot;:&quot;Collage entries in the Children’s section — frogs and ladybirds displayed on a round table&quot;},{&quot;image&quot;:&quot;/assets/pxl_20240907_121101251.jpg&quot;,&quot;alt&quot;:&quot;Cakes and traybake entered in the baking section, with certificates awarded&quot;},{&quot;image&quot;:&quot;/assets/pxl_20240907_121130140.jpg&quot;,&quot;alt&quot;:&quot;Quilted placemats entered into the craft section, with certificates awarded&quot;}]">}}
 
-[Fairings recipe for the Home Produce section (Class 43)](/ayton-show-2025/fairings-recipe)
+**Eyemouth Tart**[ recipe for the Home Produce section (Class 43)](/ayton-show-2025/fairings-recipe)
 
-### 2025 Schedule
+### 2026 Schedule
 
 #### Information for the Day
 
@@ -81,7 +80,7 @@ Dogs are not permitted in either building.
    vote at our AGM.
 2. The competition entry form can be found in the printed schedule ([PDF](https://aytongardens.com/assets/aytonshowschedule2026screen.pdf)) or [completed online](/ayton-show-2025/enter).
 3. Competition entry forms must be returned by Friday 28th August 2026. The form may be posted or handed in to
-   _Lenzie House, 3 High Street, Ayton, TD14 5QN_, emailed to aytongardens@outlook.com, or [completed online](/ayton-show-2025/enter).
+   *Lenzie House, 3 High Street, Ayton, TD14 5QN*, emailed to aytongardens@outlook.com, or [completed online](/ayton-show-2025/enter).
 4. Exhibitors will be provided with cards for each of their exhibits on
    the day of the show on payment of £2 entry fee (CASH only).
 5. Any exhibitor of 18 years or less must complete an entry form as
@@ -142,15 +141,15 @@ Dogs are not permitted in either building.
 
 ##### Fruit and Vegetables
 
-(Classes marked with \* may be cut and tasted by the judge)
+(Classes marked with * may be cut and tasted by the judge)
 
 17. Heaviest vegetable marrow or overgrown courgette
 18. Four potatoes
 19. Heaviest potato
 20. Three carrots
 21. Longest carrot (crown to root tip)
-22. One cucumber \*
-23. One red pepper \*
+22. One cucumber *
+23. One red pepper *
 24. Two chilli peppers (same variety)
 25. Three beetroot (leaves and root not cut)
 26. Four runner beans
@@ -159,12 +158,12 @@ Dogs are not permitted in either building.
 29. Three stalks rhubarb
 30. Three courgettes
 31. Four onions
-32. Four eating apples (green) \*
-33. Four eating apples (coloured) \*
+32. Four eating apples (green) *
+33. Four eating apples (coloured) *
 34. Four cooking apples
-35. Six plums \*
-36. Six cherry tomatoes \*
-37. Four large tomatoes \*
+35. Six plums *
+36. Six cherry tomatoes *
+37. Four large tomatoes *
 38. Strangest shaped fruit/vegetable (judge’s choice)
 
 ##### Home Produce
@@ -240,9 +239,10 @@ To be unframed and unmounted, and taken within the last year
 85. Draw or paint a garden creature for next year's show (we've had bees, hedgehogs, ladybirds, snails and butterflies so far)
 86. Any other craft not mentioned in the above classes
 87. Art section:
-    - An animal or bird (any medium)
-    - Mixed media to include collage (any subject)
-    - A city or townscape (any medium)
+
+    * An animal or bird (any medium)
+    * Mixed media to include collage (any subject)
+    * A city or townscape (any medium)
 
 **Children are also welcome to enter any of the adult categories, except art but including photography**
 
