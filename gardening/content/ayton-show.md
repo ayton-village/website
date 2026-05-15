@@ -47,7 +47,7 @@ Please get your entry forms in early if possible (deadline is Friday 28th August
 
 (If you have trouble downloading, you can also ask for the PDF file to be emailed to you, or you can see the entire schedule below, and the [entry form here](/ayton-show-2026/enter))
 
-Download Children's Pictures for Collage - [Butterfly](https://aytongardens.com/assets/butterfly-coloring-page-16-1187x1536.jpg) or Caterpillar
+Download Children's Pictures for Collage - [Butterfly](https://aytongardens.com/assets/butterfly-coloring-page-16-1187x1536.jpg) or [Caterpillar](https://aytongardens.com/assets/caterpillar-coloring-page-8.jpg)
 
 View full schedule below
 
