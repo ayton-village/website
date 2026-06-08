@@ -4,18 +4,18 @@ title: What's On
 is_page: true
 toc: false
 ---
-## Week beginning 25th May 2026
+## Week beginning 8th June  2026
 
 ### Monday
 
 * **09:00-10:00:** Pilates
 * **11:00-12:00:** Tai Chi
+* **19:00-20:30:** ACHA AGM
 
 ### Tuesday
 
 * **10:00–11:00:** Walk It
 * **17:45–18:45:** Keep Fit
-* **19:00-20:30:** Ayton Community Council
 
 ### Wednesday
 
@@ -32,6 +32,8 @@ toc: false
 
 ### Saturday
 
-* **12:00-14:00:** Private Party
+* **10:00-11:00:** Ayton & District Churches Coffee Morning
 
 ### Sunday
+
+* **13:00-18:00:** Private Party
