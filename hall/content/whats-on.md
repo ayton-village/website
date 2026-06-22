@@ -4,7 +4,7 @@ title: What's On
 is_page: true
 toc: false
 ---
-## Week beginning 15th June  2026
+## Week beginning 22nd June  2026
 
 ### Monday
 
