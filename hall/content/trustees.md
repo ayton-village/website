@@ -10,4 +10,4 @@ Secretary Paul Smart
 
 Treasurer David Wilson
 
-Members Jane Craig, Caroline Lathe, Sue Marrs, Chris Nitsche, Alan Robertson, Angus Scott, Paul Smart, Anita Spencer, Antony Spencer, Bill Black.
+Members Jane Craig, Caroline Lathe, Sue Marrs, Chris Nitsche, Alan Robertson,  Paul Smart,  Antony Spencer.
