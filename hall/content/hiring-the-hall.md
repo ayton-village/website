@@ -23,8 +23,6 @@ There is a full useable kitchen and the hall can also fit a bouncy castle.
 
 £10 per hour - Commercial use
 
-* the cost of metered electricity supply
-
 If you wish to know more or enquire about hiring the hall please contact the Hall keeper on 
 
 07708 403 845
