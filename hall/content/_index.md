@@ -11,8 +11,10 @@ Outside there is a secure garden with a barbeque and seating on a patio area.
 
 One of the village defibrillators is situated in the Community Hall vennel.
 
-![](/assets/1000004699.jpg)
+![](/assets/pxl_20260630_151217343.jpg)
 
 ![](/assets/1000004700.jpg)
+
+![](/assets/pxl_20260630_151316164.jpg)
 
 ![](/assets/1000004701.jpg)
