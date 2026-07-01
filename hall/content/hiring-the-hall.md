@@ -3,6 +3,7 @@ internal_name: Hiring the hall
 title: Hiring the hall
 is_page: true
 toc: false
+redirects: []
 ---
 The hall can be hired for a range of uses
 
@@ -25,4 +26,6 @@ There is a full useable kitchen and the hall can also fit a bouncy castle.
 
 If you wish to know more or enquire about hiring the hall please contact the Hall keeper on 
 
-07708 403 845
+**07708 403 845**
+
+Please read the information sheet about bookings and use of the hall before making a booking.
