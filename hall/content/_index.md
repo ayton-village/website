@@ -3,11 +3,15 @@ internal_name: Home page
 title: Ayton Community Hall
 is_page: true
 ---
-You can find Ayton Community Hall up the vennel next to the Hemelvaart Bier Cafe (previously the Black Bull pub) on the High Street. It’s only been the Community Hall since the end of March 2008. Prior to that, the hall was owned by Ayton and Burnmouth Church.
+**Ayton Community Hall** is a small, modern hall which was renovated and upgraded in 2010 with the help of various grants. The premises consist of the hall, a modern kitchen, ladies, gents and a disabled toilet and an enclosed paved area to the rear. The hall has full disabled access from the High Street.
 
-The hall also has a modern kitchen, ladies, gents and disabled toilet facilities, foldaway chairs and tables, digital projector and sound system, with a sound loop for the hard of hearing. There is cinema equipment to show DVDS and Blu-rays on a large screen.
+The hall includes a modern projection system with “cinema” sound, suitable for showing DVD’s, Blu-rays and computer presentations and includes an integrated hearing loop. A PA system with a radio microphone is also available.
 
-Outside there is a secure garden with a barbeque and seating on a patio area.
+The hall, which measures 9.4m x 5.7m, can comfortably accommodate up to 40-50 people. The maximum number is 60. There are plenty of fold away tables and chairs. There is no stage area. 
+
+The paved area at the rear is ideal for children’s parties, barbecues etc.
+
+
 
 One of the village defibrillators is situated in the Community Hall vennel.
 
