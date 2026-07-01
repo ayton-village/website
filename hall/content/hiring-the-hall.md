@@ -9,23 +9,17 @@ redirects: []
 
 **Information for Hall Hire**
 
- 
-
-Ayton Community Hall is a small, modern hall which was renovated and upgraded in 2010with the help of various grants. The premises consist of the hall, a modern kitchen, ladies, gents and a disabled toilet and an enclosed paved area to the rear. The hall has full disabled access from the High Street.
+Ayton Community Hall is a small, modern hall which was renovated and upgraded in 2010 with the help of various grants. The premises consist of the hall, a modern kitchen, ladies, gents and a disabled toilet and an enclosed paved area to the rear. The hall has full disabled access from the High Street.
 
 The hall includes a modern projection system with “cinema” sound, suitable for showing DVD’s, Blu-rays and computer presentations and includes an integrated hearing loop. 
 
 A PA system with a radio microphone is also available.
 
- 
-
 The hall, which measures 9.4m x 5.7m, can comfortably accommodate up to 40-50 people. The maximum number is 60.
 
-There are plenty of foldaway tables andchairs. There is no stage area. 
+There are plenty of foldaway tables and chairs. There is no stage area. 
 
 The paved area at the rear is ideal for children’s parties, barbecues etc.
-
- 
 
 **Hiring Costs**
 
@@ -35,8 +29,6 @@ Non commercial hirers or groups based outside the Ayton Electoral Roll Area -  
 
 Commercial hirers - £10.00        Political organisations - £10.00
 
- 
-
 **All fees should be paid in advance to:**
 
 Ayton Community Hall Association SCIO    Bank of Scotland
@@ -45,13 +37,11 @@ Sort Code:  80-22-60
 
 Account number:   22936768
 
- 
-
 **All enquiries and bookings should be made by phoning 07708 403845**
 
 ·      Payment for hires should be made in full, one week prior to the hire 
 
-·      If the hirer needs to cancel a booking a week’s notice isrequested and then the fee will be refunded.
+·      If the hirer needs to cancel a booking a week’s notice is requested and then the fee will be refunded.
 
 ·      A responsible person aged over 21, who will normally be the hirer, must be present throughout the duration of the let.
 
@@ -71,17 +61,15 @@ Account number:   22936768
 
 ·      The hall also has a MPLC ‘Umbrella®’ Licence which allows hirers to show DVD’s and Blu-rays as long as no direct charge is made to watch the film and there is no public advertising.
 
-·      Included in the hire are folding chairs and tables,crockery, cutlery and tea towels etc.
+·      Included in the hire are folding chairs and tables, crockery, cutlery and tea towels etc.
 
 ·      No smoking is allowed anywhere in the hall and that includes electronic vapes and cigarettes.
 
 ·      The hirer must agree with and sign the Terms and Conditions of Hire before the let. 
 
-·      The ACHA committee reserves the right to refuse anybookings.
+·      The ACHA committee reserves the right to refuse any bookings.
 
- 
-
-**Public LiabilityInsurance** 
+**Public Liability Insurance** 
 
 The hall’s insurance policy provides for non-commercial individuals and groups who do not have their own cover.
 
