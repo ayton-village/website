@@ -4,13 +4,14 @@ title: What's On
 is_page: true
 toc: false
 ---
-## Week beginning 29th June  2026
+## Please note that the contact number  for all Hall enquiries is now 07708 403 845
+
+## Week beginning Monday 6th July 2026
 
 ### Monday
 
 * **09:00-10:00:** Pilates
 * **11:00-12:00:** Tai Chi
-* **19:00 - 21:00**  ACHA Committee meeting 
 
 ### Tuesday
 
@@ -23,7 +24,7 @@ toc: false
 
 ### Thursday
 
-* **19.00-20:30** Whichcraft
+* **19.00-21:00** Whichcraft
 
 ### Friday
 
@@ -31,5 +32,9 @@ toc: false
 * **17:45–18:45:** Keep Fit
 
 ### Saturday
+
+Church Coffee Morning
+
+**10:00 - 11:00**
 
 ### Sunday
