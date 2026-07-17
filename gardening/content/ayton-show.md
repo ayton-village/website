@@ -14,6 +14,8 @@ toc: false
 
 ### Ayton Show is back for 2026 …
 
+##### [Enter now](/ayton-show-2026/enter/)
+
 ###### Saturday 5th September 2026, at Ayton Primary School and field, with teas at the Ayton Bowling Club
 
 ![Caroline, Chair of the Ayton Gardening Society, standing in front of the table displaying the floral entries](/assets/img-20230905-wa0007~2-1-.jpg)

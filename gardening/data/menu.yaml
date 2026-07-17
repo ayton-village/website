@@ -5,6 +5,12 @@ main:
   - type: page
     link: Photo gallery
     title: Photos
+  - type: page
+    link: Ayton Show 2026
+    title: Ayton Show
+  - type: page
+    link: Ayton Show 2026 Entry Form
+    title: Enter now
 sites:
   - name: Ayton, Berwickshire
     link: https://ayton-village.org
