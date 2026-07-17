@@ -19,14 +19,4 @@ We also organise other occasional activities, such as visits to gardens and some
 
 We always welcome new members, as well as volunteers who are willing to help at the show and with planning and organisation. Please email *aytongardens@outlook.com*
 
-### Our Coffee Morning and Plant Sale is coming soon.
-
-Our eagerly anticipated plant sale, cake sale and coffee morning will be held in the Community Hall on Saturday 16th May 2026.
-
-As usual, we will have a selection of bedding plants, vegetable plants and perennials etc. for sale behind the hall, and a fine table full of delicious home baking offerings for sale inside the hall, along with tea, coffee and biscuits.
-
-Donations of plants or home baking are very welcome. Please bring them along on the morning of the sale at 10am.
-
-![](/assets/coffeemorningpostermay26screen.jpg)
-
 ![Poster calling for volunteers to help plan the show and help on the day](/assets/volunteer-poster-a4-screen.jpeg)
