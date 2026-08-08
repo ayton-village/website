@@ -4,10 +4,22 @@ title: Trustees
 is_page: true
 toc: false
 ---
-Chairman Isabel Kellie
+**Chairman** Isabel Kellie
 
-Secretary Paul Smart
+**Secretary** Paul Smart
 
-Treasurer David Wilson
+**Treasurer** David Wilson
 
-Committee members: Jane Craig, Caroline Lathe, Sue Marrs, Chris Nitsche, Alan Robertson, Antony Spencer.
+**Committee members:** 
+
+Jane Craig, 
+
+Caroline Lathe, 
+
+Sue Marrs, 
+
+Chris Nitsche, 
+
+Alan Robertson, 
+
+Antony Spencer.
