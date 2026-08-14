@@ -6,12 +6,11 @@ toc: false
 ---
 ## Please note that the contact number  for all Hall enquiries is now 07708 403 845
 
-## Week beginning Monday 10th August 2026
+## Week beginning Monday 17th August 2026
 
 ### Monday
 
 * **11:00-12:00:** Tai Chi
-* **7:00 - 8:00**  Ayton Community Hall Association - Committee Meeting
 
 ### Tuesday
 
