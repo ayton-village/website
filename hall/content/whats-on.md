@@ -6,10 +6,11 @@ toc: false
 ---
 ## Please note that the contact number  for all Hall enquiries is now 07708 403 845
 
-## Week beginning Monday 24th August 2026
+## Week beginning Monday 7th September 2026
 
 ### Monday
 
+* **09:00 - 10:00**  Pilates ( pre-booking required)
 * **11:00-12:00:** Tai Chi
 
 ### Tuesday
@@ -20,52 +21,55 @@ toc: false
 ### Wednesday
 
 * **09:30–11:00:** Drop In. Come on in for a cup of tea or coffee and a blether!
-* **18:00 - 20:00** Public meeting about the proposed community pub in Ayton
+* **19:00 - 21:00** Teaching Bridge
 
 ### Thursday
 
+* **14:00 - 16:00**  Mahjong
 * **19.00-21:00** Whichcraft
 
 ### Friday
 
-* **Childrens Dance 13:00 - 15:00**
+* **Childrens Dance 13:00 - 15:00** (booking rquired)
 * **17:45–18:45:** Keep Fit
-* **7:30 Film Night.** The Devil wears Prada
 
-### Saturday
+### Saturday 
+
+* ### Ayton Churches Coffee Morning 10:00 - 11:00
+* **14:00 - 16:00**   Private Party 
 
 ### Sunday
 
 .........................................................................................................................................................................
 
-# **Week beginning Monday 31st August 2026**
+# **Week beginning Monday 14th September 2026**
 
 ### Monday
 
 * **09:00 - 10:00** Pilates
 * **11:00 - 12:00** Tai Chi
-* **18:30 - 20:00** Ayton Heritage
+* **18:30 - 20:00** ACHA meeting
 
 ### Tuesday
 
 * **10:00–11:00:** Walk It
-* **13:00 - 15:00**  Funeral
-* **17:45–18:45:** Keep Fit
-* **19:00 - 20:00** Ayton Community Council
+* **17:45–18:45:** Keep 
 
 ### Wednesday
 
 * **09:30–11:00:** Drop In. Come on in for a cup of tea or coffee and a blether!
-* **13:30 - 16:30**  EBu3a Opera
+* **19:00 - 21:00** Teaching Bridge
 
 ### Thursday
 
+* **14:00 - 16:00**  EBU3A Mahjong
 * **19.00-21:00** Whichcraft
 
 ### Friday
 
 * **13:00 - 15:00** Childrens Dance
 * **17:45–18:45:** Keep Fit
+* **19:30** FILM NIGHT
 
 ### Saturday 5th September
 
