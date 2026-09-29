@@ -1,6 +1,6 @@
 ---
-internal_name: What’s On This Week
-title: What's On
+internal_name: whats-on
+title: What’s On
 is_page: true
 toc: false
 ---
