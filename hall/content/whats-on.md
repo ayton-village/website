@@ -1,5 +1,5 @@
 ---
-internal_name: whats-on
+internal_name: Whats-on
 title: What’s On
 is_page: true
 toc: false
