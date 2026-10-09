@@ -8,29 +8,28 @@ toc: false
 
 .........................................................................................................
 
-# **Week beginning Monday 5th October 2026**
+# **Week beginning Monday 12th October 2026**
 
 ### Monday
 
 * **09:00 - 10:00** Pilates ( pre-booking required)
 * **11:00 - 12:00** Tai Chi
+* 7:00 - 8:00 Ayton Community Hall Association Committee Meeting
 
 ### Tuesday
 
 * **10:00–11:00:** Walk It
 * **2:00 - 3:30** EBU3A Singing for Fun
 * **17:45–18:45:** Keep Fit
-* **7:00 - 8:00pm** Ayton Communiy Council
 
 ### Wednesday
 
 * **09:30–11:00:** Drop In. Come on in for a cup of tea or coffee and a blether!
-* **13:30 - 16:30** EBU3A Opera
 * **19:00 - 21:00** Teaching Bridge
 
 ### Thursday
 
-* **11:00 - 12:00** Scottish Borders Rape Crisis Centre
+* **10:00 - 12:00** EBU3A Music Appreciation
 * **2:00 - 4:00 pm EBU3A** Mahjong
 * **7:00 - 9:00pm** Whichcraft
 
@@ -41,19 +40,17 @@ toc: false
 
 ### Saturday
 
-* **10:00 - 11:00** Church Coffee Morning
-
 ### Sunday
 
 ## .................................................................................................................
 
-# Week beginning Monday 12th October 2026
+# Week beginning Monday 19th October 2026
 
 ### Monday
 
-* **09:00 - 10:00**  Pilates 
+* No Pilates - Holiday
 * **11:00-12:00:** Tai Chi
-* **19:00 - 20:00** Ayton Community Hall meeting
+* **19:00 - 20:00** Ayton gardening Socitey AGM
 
 ### Tuesday
 
@@ -68,13 +65,12 @@ toc: false
 
 ### Thursday 15th
 
-* **10:00 - 12:00** EBU3A Music Appreciation
-* **2:00 - 4:00 pm EBU3A** Mahjong
+* **11:00 - 12:00** Scottish Borders Council Rape Crisis Centre
 * **19.00-21:00** Whichcraft
 
 ### Friday 16th
 
-* **Children's Dance 13:15 - 14:30**
+* **No Children's Dance - Holiday**
 * **17:45–18:45:** Keep Fit
 
 ### Saturday
@@ -83,24 +79,26 @@ toc: false
 
 ........................................................................................................................................................................................................................................
 
-# Week beginning Monday 19th October 2026
+# Week beginning Monday 26th October 2026
 
 ### Monday
 
-* No  Pilates 
+* **9:00 - 10:00** Pilates 
 * **11:00-12:00:** Tai Chi
-* **19:30 - 21:00** Ayton Gardening Society AGM
+* **18:30 - 20:00** Ayton Heritage
 
 ### Tuesday
 
 * **10:00–11:00:** Walk It 
 * **14:00 - 15:30** EBU3A Singing for Fun
 * **17:45–18:45:** Keep Fit
+* **7:00 - 9:00 pm** Ayton Historical Society
 
 ### Wednesday
 
 * **09:30–11:00:** Drop In. Come on in for a cup of tea or coffee and a blether!
-* **19:00 - 21:00** Teaching Bridge
+* **2:00 - 4:00** Ayton and District Churches Guild
+* **18:30 - 21:00** Ayton SWRI
 
 ### Thursday
 
@@ -108,11 +106,12 @@ toc: false
 
 ### Friday
 
-* **10:00 - 12:00** EBU3A Geology
-* No Childrens Dance
+* **1:15 - 2:30** Childrens Dance
 * **17:45–18:45:** Keep Fit
 
-### Saturday
+### Saturday 31st October
+
+**14:00 - 18:00 Private Party**
 
 ### Sunday
 
