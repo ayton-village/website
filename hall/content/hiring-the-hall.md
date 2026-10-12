@@ -7,7 +7,9 @@ redirects: []
 ---
    **Ayton Community Hall**
 
-**Information for Hall Hire**
+**Information for Hall Hire - Please read through this information before making a booking**
+
+**All enquiries and bookings should be made in the first instance by phoning 07708 403 845**
 
 Ayton Community Hall is a small, modern hall which was renovated and upgraded in 2010 with the help of various grants. The premises consist of the hall, a modern kitchen, ladies, gents and a disabled toilet and an enclosed paved area to the rear. The hall has full disabled access from the High Street.
 
@@ -39,7 +41,15 @@ Account number:   22936768
 
 **All enquiries and bookings should be made by phoning 07708 403845**
 
-·      Payment for hires should be made in full, one week prior to the hire 
+**Once a booking is agreed a booking form and an invoice will be sent out by email.**
+
+**The form should be completed and returned to aytoncomhall@gmail.com**
+
+**The fee should be paid in full, at least one week prior to the hire**
+
+**Once the booking form and the payment have been received a confirmation of booking will be sent out.**
+
+(Cash payments can be accepted by prior arrangement only)
 
 ·      If the hirer needs to cancel a booking a week’s notice is requested and then the fee will be refunded.
 
