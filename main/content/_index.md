@@ -9,8 +9,10 @@ redirects:
 
 {{<aside side="left">}}
 
-<p style="font-size: 1.25em; text-align: center;">
-<a href="https://www.crowdfunder.co.uk/p/ayton-community-pub-group" target="_blank">Ayton Community Pub Group Crowdfunder now live</a>
+<p style="font-size: 1.25em">
+<h6>Important news</h6>
+<ul><li><a href="https://www.crowdfunder.co.uk/p/ayton-community-pub-group" target="_blank">Ayton Community Pub Group Crowdfunder now live</a></li>
+<li><a href="https://scotborders.citizenspace.com/customer-communities/aytonplaypark/" target="_blank">SBC survey about Ayton play park now live (closes 20 November)</a></li></ul>
 </p>
 
 {{</aside>}}
