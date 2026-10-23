@@ -31,6 +31,8 @@ Non commercial hirers or groups based outside the Ayton Electoral Roll Area -  
 
 Commercial hirers - £10.00        Political organisations - £10.00
 
+Additional fee if a Bouncy Castle is used - £10
+
 **All fees should be paid in advance to:**
 
 Ayton Community Hall Association SCIO    Bank of Scotland
