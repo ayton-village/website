@@ -8,9 +8,7 @@ toc: false
 
 # 07708 403 845
 
-- - -
 
-........
 
 # Week beginning Monday 23rd November 2026
 
@@ -51,6 +49,8 @@ Church Christmas Coffee Morning in the Bowling Club Today
 
 Switch-On for the Christmas Lights.
 
+.........................................................................................................................................................................
+
 # Week beginning Monday 30th November 2026
 
 ### Monday
@@ -86,4 +86,39 @@ Switch-On for the Christmas Lights.
 
 ### Sunday
 
-..............................................................................................................................
+.................................................................................................................................................
+
+# Week beginning Monday 7th December 2026
+
+### Monday
+
+* **9:00 - 10:00** Pilates
+* **11:00-12:00:** Tai Chi
+* **7 - 8 pm** Ayton Community Hall association
+
+### Tuesday
+
+* **10:00–11:00:** Walk It
+* **14:00 - 15:30** EBU3A Singing for Fun
+* **17:45–18:45:** Keep Fit
+
+### Wednesday
+
+* **09:30–11:00:** Drop In. Come on in for a cup of tea or coffee and a blether!
+* **11:00 13:00**  Citizens Advice Beuareu 
+
+### Thursday 10th November
+
+* **2:00 - 4:00pm** EBU3A Majhong
+* **19.00-21:00** Whichcraft
+
+### Friday
+
+* **13.15 - 14:30** Children's Dance - Last Class until January 
+* **17:45–18:45:** Keep Fit
+
+### Saturday 12th December
+
+* **10:00-11:00** Church Coffee Morning 
+
+### Sunday
